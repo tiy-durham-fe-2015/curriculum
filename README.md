@@ -60,6 +60,22 @@ Just keep going.
 
 In which I ramble on and on about various random topics that annoy or interest me.
 
+## 0. Be humble
+
+You will make stupid mistakes.
+So will your boss.
+So will your coworkers.
+
+> Have patience with all things, but chiefly have patience with yourself. Do not lose courage in considering your own imperfections but instantly set about remedying them - every day begin the task anew.
+- Saint Francis de Sales
+
+When you're frustrated with someone (especially a boss or peer), consider your own shortcomings.
+
+Don't gossip.
+Don't complain.
+
+Be the sort of person you know you should be.
+
 ## 1. Don't be clever
 
 When in doubt, choose the obvious way.
@@ -359,3 +375,4 @@ One of the best things you can do for your brain and your happiness.
 [Signal vs noise] (https://signalvnoise.com/)
 
 [Hacker news] (https://news.ycombinator.com/)
+
