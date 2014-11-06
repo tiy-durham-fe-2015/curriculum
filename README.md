@@ -60,7 +60,7 @@ Just keep going.
 
 In which I ramble on and on about various random topics that annoy or interest me.
 
-## 0. Be humble
+## Be patient, humble, kind
 
 You will make stupid mistakes.
 So will your boss.
@@ -75,14 +75,15 @@ Don't gossip.
 Don't complain.
 
 Be the sort of person you know you should be.
+You'll become the guy your coworkers trust and go to when they have problems.
 
-## 1. Don't be clever
+## Don't be clever
 
 When in doubt, choose the obvious way.
 When in doubt, choose the boring way.
 You'll save yourself (and the poor suckers who inherit your code) a lot of trouble.
 
-## 2. Don't over-engineer
+## Don't over-engineer
 
 Don't solve problems you don't have.
 Super flexible, generic solutions are a PITA.
@@ -90,33 +91,33 @@ Solve the problem in front of you.
 Re-structure when you need to.
 Not sooner.
 
-## 3. Readability > Optimization
+## Readability > Optimization
 
 Which is better, readable code or optimal code?
 Readable, every time.
 Get it working.
 Make it really, really understandable.
 
-## 4. Premature optimization is $@*!
+## Premature optimization is $@*!
 
 Story of a game developer.
 
-## 5. When you do optimize...
+## When you do optimize...
 
 Measure all the things.
 Optimize the right thing.
 
-## 6. Write good HTML
+## Write good HTML
 
 ### Use the right tags for the right things
 
 Never do this:
 
-    <span class="btn btn-primary" v-on="click: saveProgress">Save</span>
+    <span v-on="click: saveProgress">Save</span>
   
 Do this  instead:
 
-    <button class="btn btn-primary" v-on="click: saveProgress">Save</span>
+    <button v-on="click: saveProgress">Save</button>
 
 Why?
 
@@ -149,7 +150,7 @@ Nowadays, most people know this.
 
 Nowadays, most people don't know this.
 
-## 7. Commenting dos and don'ts
+## Commenting dos and don'ts
 
 ### Avoid useless comments
 
@@ -220,13 +221,13 @@ But in really weird/unintuitive scenarios, comment.
 
 Remember: *Comments lie. Code tells the truth... Usually...*
 
-## 8. Single responsibility principle
+## Single responsibility principle
 
 (From SOLID principles)
 
 Single responsibility - A class/function should have only one responsibility
 
-## 9. Dependency inversion principle
+## Dependency inversion principle
 
 Depend upon abstractions, not concretions.
 Don't write this:
@@ -237,7 +238,7 @@ When you really only need:
 
     void Foo(IEnumerable<string> strs)
 
-## 10. Referential transparency
+## Referential transparency
 
 Function F always returns the same output when given the same input. 
 This is a *really* good idea.
@@ -260,7 +261,7 @@ Take the result, and map it back into the mutable state.
 This makes your code much easier to reason about.
 It wins you friends.
 
-## 11. Method chaining FTW
+## Method chaining FTW
 
 If you can return something useful, do so.
 If you write a void method, you cannot chain that method.
@@ -280,7 +281,7 @@ Because with the latter, you could write this:
 
     foo.setName('Chris').setAge(23);
 
-### Semicolons and braces in JavaScript
+## Semicolons and braces in JavaScript
 
 In JavaScript, this:
 
@@ -303,31 +304,40 @@ Do different things, thanks to semicolon insertion.
         hello: 'world'
     };
 
-## 12. Learn design
+## Learn design
 
 Even if you're a dev, this will come in super, super handy.
 
-## 13. Do hallway usability testing
+## Do hallway usability testing
 
 This isn't even optional. Do it. Do it now.
 
-## 14. Boring design = good design
+## Boring design = good design
 
 Remember the axiom: "Don't be clever"?
 
 It applies to design, too.
 
-[See Cap Watkin's insight] (http://blog.capwatkins.com/the-boring-designer)
+[See Cap Watkin's insight](http://blog.capwatkins.com/the-boring-designer)
 
-## 15. Take vacation
+## Take vacation
 
 Use your vacation days.
 
-## 16. Take naps
+## Take naps
 
 One of the best things you can do to boost productivity
 
 The brain doesn't have a lymph system... sleep is it's lymph
+
+## Don't check email first thing in the morning
+
+It's just annoying and distracting and rarely has anything important.
+If it *does* have something important, someone will tell you.
+
+[See this article](www.huffingtonpost.com/2014/02/13/1-thing-successful-people-dont-do_n_4769272.html)
+
+In fact, I check email maybe twice a day, and that is plenty.
 
 
 # Episode 3: How to grow while employed as a working stiff
@@ -364,15 +374,20 @@ One of the best things you can do for your brain and your happiness.
 
 # Epilogue: Meh favz
 
-[The design of everyday things] (http://www.amazon.com/Design-Everyday-Things-Revised-Expanded-ebook/dp/B00E257T6C/ref=sr_1_1?ie=UTF8&qid=1415154139&sr=8-1&keywords=the+design+of+everyday+things)
+[The design of everyday things](http://www.amazon.com/Design-Everyday-Things-Revised-Expanded-ebook/dp/B00E257T6C/ref=sr_1_1?ie=UTF8&qid=1415154139&sr=8-1&keywords=the+design+of+everyday+things)
 
-[Don't make me think] (http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1415154183&sr=8-1&keywords=Don%27t+make+me+think)
+[Don't make me think](http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1415154183&sr=8-1&keywords=Don%27t+make+me+think)
 
-[Any of Edward Tufte's books] (http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=edward%20tufte&sprefix=edward+tu%2Caps)
+[Any of Edward Tufte's books](http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=edward%20tufte&sprefix=edward+tu%2Caps)
 
-[Clean Code: A Handbook of Agile Software Craftsmanship] (http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_fkmr1_1?ie=UTF8&qid=1415154241&sr=8-1-fkmr1&keywords=Code+as+craft+an+agile)
+[Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_fkmr1_1?ie=UTF8&qid=1415154241&sr=8-1-fkmr1&keywords=Code+as+craft+an+agile)
 
-[Signal vs noise] (https://signalvnoise.com/)
+[The Black Swan by Nasim Taleb](http://www.amazon.com/Black-Swan-Impact-Highly-Improbable-ebook/dp/B00139XTG4/ref=sr_1_4?ie=UTF8&qid=1415241756&sr=8-4&keywords=nasim+taleb)
 
-[Hacker news] (https://news.ycombinator.com/)
+[Thinking Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA/ref=sr_1_1?ie=UTF8&qid=1415241796&sr=8-1&keywords=thinking+fast+and+slow)
 
+[Signal vs noise](https://signalvnoise.com/)
+
+[Hacker news](https://news.ycombinator.com/)
+
+[TED](http://www.ted.com)
