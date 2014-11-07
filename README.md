@@ -66,7 +66,7 @@ You will make stupid mistakes.
 So will your boss.
 So will your coworkers.
 
-> Have patience with all things, but chiefly have patience with yourself. Do not lose courage in considering your own imperfections but instantly set about remedying them - every day begin the task anew.
+> Have patience with all things, but chiefly have patience with yourself.
 - Saint Francis de Sales
 
 When you're frustrated with someone (especially a boss or peer), consider your own shortcomings.
