@@ -391,3 +391,6 @@ One of the best things you can do for your brain and your happiness.
 [Hacker news](https://news.ycombinator.com/)
 
 [TED](http://www.ted.com)
+
+## Accompanying slides:
+[Google slides](https://docs.google.com/presentation/d/1wpngPVjSrSs9y_pV67xhjr5IMNfPqP1eeXIVovjmOoE/edit?usp=sharing)
