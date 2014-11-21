@@ -62,6 +62,19 @@ Check out web-fonts:
 * https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96
 * http://www.fontsquirrel.com/
 
+## Learn a Bit About Design
+
+Great start:
+http://uxmyths.com/
+
+Here are some books. These aren't technical, so probably won't help you immediately with the IronYard course, but are great resources to help clarify your thinking on design. I'll be bringing these into the IronYard, so look for them there when the cohort starts.
+
+[Don't Make Me Think](http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1416519930&sr=8-1&keywords=don%27t+make+me+think)
+
+[Any of Edward Tufte's books](http://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118/ref=sr_1_2?ie=UTF8&qid=1416519965&sr=8-2&keywords=edward+tufte)
+
+[The Design of Everyday Things](http://www.amazon.com/Design-Everyday-Things-Revised-Expanded-ebook/dp/B00E257T6C/ref=sr_1_1?ie=UTF8&qid=1416520014&sr=8-1&keywords=the+design+of+everyday+things)
+
 ## Learn JavaScript
 
 Hey, surprise! I'm linking to another MDN article:
@@ -113,13 +126,3 @@ http://www.awwwards.com/
 
 http://psddd.co/
 
-
-## Design Books
-
-These aren't technical, so probably won't help you immediately with the IronYard course, but are great resources to help clarify your thinking on design.
-
-[Don't Make Me Think](http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1416519930&sr=8-1&keywords=don%27t+make+me+think)
-
-[Any of Edward Tufte's books](http://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118/ref=sr_1_2?ie=UTF8&qid=1416519965&sr=8-2&keywords=edward+tufte)
-
-[The Design of Everyday Things](http://www.amazon.com/Design-Everyday-Things-Revised-Expanded-ebook/dp/B00E257T6C/ref=sr_1_1?ie=UTF8&qid=1416520014&sr=8-1&keywords=the+design+of+everyday+things)
