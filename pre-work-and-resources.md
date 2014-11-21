@@ -36,6 +36,29 @@ MDN is generally about as good a resource as you can find online (for free, anyw
 Play around with CSS here:
 http://codepen.io/anon/pen/RNNyzz
 
+## Copy Someone Else's Work...
+
+OK, I'm not saying plagarize. But, if you've gotten this far, I'm impressed. Now, it's time to apply what you've learned.
+
+Try implementing someone else's design using CSS and HTML. 
+
+Here's a gread design to try:
+
+http://academy.smashingboxes.com/
+
+## Learn a Bit About Fonts
+
+See if you can find good answers to these questions:
+
+1. What's the optimal font-size? Is there one?
+2. Is there an optimal ratio between font-size and line-height?
+3. Is there an optimal line-length/column-width (hint: sort of)? What is it?
+
+Check out web-fonts:
+
+* http://css-tricks.com/snippets/css/using-font-face/
+* https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96
+* http://www.fontsquirrel.com/
 
 ## Learn JavaScript
 
