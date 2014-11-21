@@ -38,11 +38,13 @@ http://codepen.io/anon/pen/RNNyzz
 
 ## Copy Someone Else's Work...
 
-OK, I'm not saying plagarize. But, if you've gotten this far, I'm impressed. Now, it's time to apply what you've learned.
+If you've gotten this far, I'm impressed.
 
-Try implementing someone else's design using CSS and HTML. 
+Now, I'm not saying plagarize, but if you practice your skills by implementing someone elses' design, you'll be doing something very similar to real-world FE work.  
 
-Here's a gread design to try:
+So, it's time to apply what you've learned. Find a cool website and try implementing its layout on your own.
+
+Here's a great design to try:
 
 http://academy.smashingboxes.com/
 
