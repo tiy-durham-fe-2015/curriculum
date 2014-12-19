@@ -5,7 +5,7 @@
 * How the web works (overview)
 * HTML/CSS (beginner - intermediate)
 	- Markup
-	- Layout (static content)
+	- Layout (static content, responsive)
 	- Forms
 	- Fonts
 	- Resets
