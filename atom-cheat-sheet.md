@@ -61,6 +61,10 @@ Select current line:
 
     Cmd + l
     
+Color picker:
+    
+    Cmd + Shift + C
+
 ## For more, see
 
 http://d2wy8f7a9ursnm.cloudfront.net/atom-editor-cheat-sheet.pdf
