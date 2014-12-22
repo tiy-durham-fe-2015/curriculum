@@ -28,8 +28,39 @@ Here are the most useful Atom editor plugins and shortcuts (in my opinion).
 
 ## Shortcuts
 
-Ctrl + Shift + U > Rename HTML tag
-Ctrl + Alt + r > Rename JS name
-Ctrl + Alt + j > Go to matching tag
-Cmd + T > Find a file
-Ctrl + G > Go to line
+Rename HTML tag:
+
+    Ctrl + Shift + U
+    
+Rename JS variable/function:
+
+    Ctrl + Alt + r
+
+Go to matching HTML tag:
+
+    Ctrl + Alt + j
+
+Find a file:
+
+    Cmd + T
+
+Go to line:
+
+    Ctrl + G
+
+Cut move line:
+
+    Ctrl + Cmd + [up]
+    Ctrl + Cmd + [down]
+  
+Comment current selection/line:
+
+    Cmd + /
+  
+Select current line:
+
+    Cmd + l
+    
+## For more, see
+
+http://d2wy8f7a9ursnm.cloudfront.net/atom-editor-cheat-sheet.pdf
