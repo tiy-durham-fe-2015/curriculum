@@ -1,8 +1,3 @@
-- No Friday lecture?
-- More HTML: (main, article, nav, header, footer)
-  - structural: div, nav, article, main, header, footer, aside
-  - textual:
-
 # Day 3
 
 Scenario: Your client likes your layout. Now, they want to get information from
