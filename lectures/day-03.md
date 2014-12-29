@@ -45,6 +45,7 @@ https://dribbble.com/shots/218427-Ui-Elements-Free-PSD?list=searches&tag=checkbo
   - Style invalid elements using the :invalid selectors
 
 - Use CSS to make the checkboxes in the preferences section look like:
-  - ![toggle](https://github.com/chrisdavies/lessons/raw/master/img/checkbox-toggle.gif)
+
+![toggle](https://github.com/chrisdavies/lessons/raw/master/img/checkbox-toggle.gif)
 
 - Play this again: http://flukeout.github.io/
