@@ -14,6 +14,7 @@ Now, how do you get back to the version that looked good?
 - Terminal & Git basics
   - pwd, cd, mkdir, ls, open, Atom
   - git branch, add, commit, push, pull
+- GitHub source and pages
 
 ## Exercise(s)
 
