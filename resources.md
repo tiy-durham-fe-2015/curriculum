@@ -1,0 +1,174 @@
+# Resources
+
+Here is a big dump of lots of resources for front-end devs.
+
+## Git
+
+Good tutorial:
+https://www.atlassian.com/git/tutorials/setting-up-a-repository
+
+## CSS/HTML
+
+### Tools
+
+Test for browser support:
+http://caniuse.com
+
+Lorem ipsum:
+http://meettheipsums.com/
+
+CSS reset:
+http://meyerweb.com/eric/tools/css/reset/
+
+Scale calculator for headers, line-heights, etc:
+http://type-scale.com/
+
+Simple grid system:
+http://jeet.gs/
+
+Animations:
+http://daneden.github.io/animate.css/
+http://www.justinaguilar.com/animations/index.html
+http://leaverou.github.io/animatable/
+
+Start a server in any directory on Mac:
+
+    python -m SimpleHTTPServer 8000
+
+Live reloading of a site:
+http://nitoyon.github.io/livereloadx/
+
+	  livereloadx --include *.* .
+
+Google design guidelines:
+http://www.google.com/design/spec/material-design/introduction.html
+
+Free resources for designers:
+https://medium.com/@ingojoseph/free-design-resources-187bb30cc762
+
+Preprocessors
+http://learnboost.github.io/stylus/
+http://sass-lang.com/
+http://lesscss.org/
+
+Frameworks
+http://thoughtbot.com/open-source
+http://getbootstrap.com/
+http://foundation.zurb.com/
+
+### Tutorials & Articles
+
+HTML element categories:
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Content_categories
+
+CSS/HTML tutorial:
+http://learn.shayhowe.com/html-css/
+
+Advanced CSS selectors game:
+http://flukeout.github.io/
+
+Layout tutorial:
+http://learnlayout.com/no-layout.html
+
+Optimal line-lengths:
+http://baymard.com/blog/line-length-readability
+
+Font-sizing explained:
+http://kyleschaeffer.com/development/css-font-size-em-vs-px-vs-pt-vs/
+
+The Golden ratio:
+http://www.smashingmagazine.com/2008/05/29/applying-divine-proportion-to-web-design/
+
+CSS tips, tricks, and references:
+http://css-tricks.com/almanac/
+
+The power of CSS illustrated:
+http://a.singlediv.com/
+http://www.csszengarden.com/
+
+Intro to OOCSS:
+http://www.codersgrid.com/2013/05/10/how-to-code-better-css/
+
+Video tutorials on all things web-programming:
+https://www.bento.io/
+
+Free Images
+http://www.pexels.com/
+https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b
+
+Fonts
+http://fontsquirrel.com
+http://google.com/fonts
+
+Icon fonts:
+
+http://iconmonstr.com/
+http://app.fontastic.me/
+http://fontello.com
+
+There's a good list of free fonts at the bottom of this article:
+
+https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96
+
+Inspiration
+
+http://codepen.io/patterns/
+https://dribbble.com
+http://squarespace.com/
+http://thoughtbot.com/
+http://line25.com/
+http://land-book.com/
+http://www.awwwards.com/
+
+## JavaScript
+
+### Tutorials & Articles
+
+Good intro to JS:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
+Thorough documentation of weird JS behaviors and gotchas:
+http://bonsaiden.github.io/JavaScript-Garden/
+
+Complete reference:
+http://devdocs.io/javascript/
+
+Contrasting jQuery with basic JavaScript:
+http://youmightnotneedjquery.com/
+
+Learn JS by playing games:
+http://www.jsdares.com/
+
+Intro to functional programming:
+http://scott.sauyet.com/Javascript/Talk/FunctionalProgramming/
+
+### Libraries
+
+jQuery
+http://jquery.com/
+
+lo-dash, a set of useful helpers:
+https://lodash.com/
+
+lazy evaluation:
+http://danieltao.com/lazy.js/
+
+functional constructs in JS:
+http://ramdajs.com/docs/
+
+[Advanced] physics library:
+http://brm.io/matter-js
+
+Books
+http://eloquentjavascript.net/
+
+
+
+### General Tech
+
+Blogs & News
+https://news.ycombinator.com/
+https://signalvnoise.com/
+
+Gulp stuff:
+https://developers.google.com/web/fundamentals/tools/build/setupbuildprocess?hl=en
