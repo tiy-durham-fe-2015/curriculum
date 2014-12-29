@@ -49,6 +49,7 @@ https://dribbble.com/shots/218427-Ui-Elements-Free-PSD?list=searches&tag=checkbo
   - Here are some common patterns: http://html5pattern.com/
   - Style invalid elements using the :invalid selectors
 
-- Use CSS to make the checkboxes in the preferences section look like: ![toggle](https://github.com/chrisdavies/lessons/raw/master/img/checkbox-toggle.gif)
+- Use CSS to make the checkboxes in the preferences section look like:
+  - ![toggle](https://github.com/chrisdavies/lessons/raw/master/img/checkbox-toggle.gif)
 
 - Play this again: http://flukeout.github.io/
