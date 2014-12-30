@@ -6,8 +6,13 @@ like Smashing Boxes' website," they say. What do you do?
 ## Topics
 
 - Icebreaker
+- Boundaries & expectations
 - How the web works
 - Introduction to HTML & CSS
+  - Separation of concerns
+    - Content: HTML
+    - Style: CSS
+    - Interaction & logic: JavaScript
   - Markup, a brief history
   - http://meettheipsums.com
   - HTML: h1...h6, p, img, a, div
@@ -22,6 +27,7 @@ like Smashing Boxes' website," they say. What do you do?
   - Colors
   - Images & icons
   - Patterns (error messages, profile pictures, etc)
+  - Hallway testing
 
 ## Exercise
 
