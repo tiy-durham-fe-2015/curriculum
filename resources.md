@@ -11,6 +11,9 @@ https://www.atlassian.com/git/tutorials/setting-up-a-repository
 
 ### Tools
 
+CSS triangle generator:
+http://apps.eky.hk/css-triangle-generator/
+
 Test for browser support:
 http://caniuse.com
 
