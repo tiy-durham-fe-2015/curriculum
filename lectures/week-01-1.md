@@ -9,11 +9,12 @@ like Smashing Boxes' website," they say. What do you do?
 - Boundaries & expectations
 - How the web works
 - Introduction to HTML & CSS
+  - Markup, a brief history
   - Separation of concerns
     - Content: HTML
     - Style: CSS
     - Interaction & logic: JavaScript
-  - Markup, a brief history
+  - Pull up jsbin and have the class follow along
   - http://meettheipsums.com
   - HTML: h1...h6, p, img, a, div
   - CSS: selector basics, the cascade
@@ -46,6 +47,9 @@ Remember:
 ## Assignment
 
 Implement this layout: http://academy.smashingboxes.com/
+
+Don't worry about the animations, hover effects, forms, etc.
+
   - First, grab resources (images)
   - Implement the big, block layout
   - Implement your basic defaults: colors, fonts, h1, p, a styles, etc
