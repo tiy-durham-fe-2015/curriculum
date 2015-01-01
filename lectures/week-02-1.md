@@ -16,6 +16,7 @@ Concepts:
   - operators, ceil, floor, round
   - strings (text)
   - string/number conversion String(23.4) and Number('23.4')
+  - string length, concatenation
 - variables
   - naming, best-practices
   - use-case: reduce duplication (reuse myName in many places, change one place)
