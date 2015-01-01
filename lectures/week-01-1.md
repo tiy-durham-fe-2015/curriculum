@@ -1,4 +1,4 @@
-# Day 1
+# Week 1, Day 1
 
 Question: A client comes to you and wants a slick new website. "Make it look
 like Smashing Boxes' website," they say. What do you do?

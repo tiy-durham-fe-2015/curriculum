@@ -1,4 +1,4 @@
-# Day 3
+# Week 1, Day 3
 
 Scenario: Your client likes your layout. Now, they want to get information from
 their clients... How do you do that?

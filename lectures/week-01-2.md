@@ -1,4 +1,4 @@
-# Day 2
+# Week 1, Day 2
 
 Scenario: You've done a ton of work. At one point, things were pretty good, but
 then the client asked for drastic changes. You tried them. They didn't work.
