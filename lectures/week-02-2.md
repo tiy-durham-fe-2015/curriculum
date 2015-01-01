@@ -38,7 +38,7 @@ https://dribbble.com/shots/850410-Dropdown-Menu-UI?list=searches&tag=dropdown_me
 - Write JavaScript to prevent the user from entering more than maxsize chars
 - As the user types, show them how many characters they have remaining
 
-![Textarea](https://github.com/chrisdavies/lessons/raw/master/img/chars-left.png)
+![Textarea](https://github.com/chrisdavies/lessons/raw/master/img/chars-left.gif)
 
 ### Extra Credit: Auto-Grow Textarea
 
