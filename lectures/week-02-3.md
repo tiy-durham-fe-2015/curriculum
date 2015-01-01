@@ -11,6 +11,7 @@ Summary: records and sets
 - Introduction to arrays
   - Array literals
   - length
+  - push, pop, slice, unslice, splice
   - looping
   - forEach
   - sort

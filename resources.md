@@ -14,6 +14,9 @@ https://www.atlassian.com/git/tutorials/setting-up-a-repository
 CSS triangle generator:
 http://apps.eky.hk/css-triangle-generator/
 
+Text shadow, and other cewl stuff:
+http://www.css3generator.in/text-shadow.html
+
 Test for browser support:
 http://caniuse.com
 
@@ -175,3 +178,6 @@ https://signalvnoise.com/
 
 Gulp stuff:
 https://developers.google.com/web/fundamentals/tools/build/setupbuildprocess?hl=en
+
+Avoiding complexity:
+http://www.theeffectiveengineer.com/blog/hidden-costs-that-engineers-ignore?utm_source=Founder+Weekly+Newsletter&utm_campaign=1a5eed15d1-Founder_Weekly_Issue_163_December_31_2014&utm_medium=email&utm_term=0_286b01fd3e-1a5eed15d1-331306269
