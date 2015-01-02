@@ -7,31 +7,34 @@ Summary: exceptions, testing, and other good shtuffs
 - Week recap (1st half of lecture)
 - Arrays 201: splice, map, reduce, filter, some, every
 - Unit testing w/ QUnit
+- Using JS to dynamically generate HTML
+- XSS
 
 ## Exercise(s)
 
-### Create a UserManagement class
+### Create a User class
 
-- user.isInRole(roleName)
-  - use 'some' to determine if the user's roles contains the roleName
-
-- users
-  - add(user)
-  - remove(userEmail)
-  - query()
-
-- roles
-  - add(role)
-  - remove(roleName)
-  - query()
-
-- users.queryByRole(roleName)
-  - use 'filter' to extract users in a certain role
-  - e.g. users.inRole('admin')
-
-- users.areInDomain(domainName)
-  - use 'every' to test if every user has an email that ends in '@' + domainName
-  - e.g. users.areInDomain('gmail.com')
+- A user has a first name, last name, email, and roles
+- Roles are just strings, such as 'admin', or 'user'
+- User should go into a file called user.js
+- User constructor should take a spec with the following properties
+  - firstName: required
+  - lastName: required
+  - email: required
+  - roles: optional array of strings
+- User should have the following properties:
+  - firstName
+  - lastName
+  - email
+- If the User is passed an invalid spec
+  - Throw an exception indicating which property is invalid
+  - e.g. throw { err: 'User: firstName is required' }
+- User should have the following methods:
+  - fullName() - returns the first and last name as a single string value
+  - equal(otherUser) - returns true if the user's email matches otherUser's email
+  - isInRole(roleName) - returns true if the user has the specified role
+  - addRole(roleName) - adds the specified role to the user
+  - removeRole(roleName) - removes the specified role from the user
 
 
 ## Weekend Assignment
@@ -54,27 +57,6 @@ Summary: exceptions, testing, and other good shtuffs
   - some
   - filter
 
-### User Management System
+### User Management System Assignment
 
-Nearly every application you will ever write will have some kind of user management.
-We've already worked on it a bit. Now, we're going to refine it.
-
-- Copy my week 2 project repo
-  - Use the instructions here to make the copy:
-  - https://help.github.com/articles/duplicating-a-repository/
-  - Here's the repo:
-  - TODO...
-- Create a class: UserRepo
-- Get the unit tests to pass
-  - In the terminal, cd to your project directory
-  - gulp test
-
-### User Management UI
-
-- Using the user repo class and the UI we made in class this week,
-  - Create a page that has several forms
-  - Add user
-  - Add role
-  - Assign role to user
-  - Remove user
-  - Remove role
+Implement the user management assignment detailed here: [user management assignment](https://github.com/tiy-durham-fe-2015/curriculum/tree/master/assignments/user_mgmt)

@@ -40,7 +40,7 @@ https://dribbble.com/shots/850410-Dropdown-Menu-UI?list=searches&tag=dropdown_me
 - Write JavaScript to prevent the user from entering more than maxsize chars
 - As the user types, show them how many characters they have remaining
 
-![Textarea](https://github.com/chrisdavies/lessons/raw/master/img/chars-left.gif)
+![Textarea](https://github.com/tiy-durham-fe-2015/curriculum/raw/master/img/chars-left.gif)
 
 ### Extra Credit: Auto-Grow Textarea
 
@@ -54,4 +54,4 @@ https://dribbble.com/shots/850410-Dropdown-Menu-UI?list=searches&tag=dropdown_me
 - When the user removes all text from a textbox, and the textbox loses focus, delete the textbox
 - There should always be at least one textbox
 
-![Dynamic list](https://github.com/chrisdavies/lessons/raw/master/img/dynamic-list.gif)
+![Dynamic list](https://github.com/tiy-durham-fe-2015/curriculum/raw/master/img/dynamic-list.gif)
