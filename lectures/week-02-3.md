@@ -35,17 +35,19 @@ Summary: records and sets
   - TA
 - Create a page which dynamically displays these roles
 - Use an array to store the roles
-- Loop through the array and add an HTML element to the DOM:
-  (e.g. <li class="user-role">Admin</li>)
+- Loop through the array and add an HTML element to the DOM, e.g.:
+
+     <li class="user-role">Admin</li>
 
 ### User Roles (w/ Objects FTW!!!)
 
-- Now, FooCorp has asked that the roles screen display the number of users in a role
-  e.g.
+- Now, FooCorp has asked that the roles screen display the number of users in a role, e.g.
+
     <li class="user-role">
       <span class="role-name">Admin</span>
       <span class="role-user-count">32</span>
     </li>
+    
 - Modify your array to contain a Role object, rather than just strings
   - The Role object should have two properties:
   - name
