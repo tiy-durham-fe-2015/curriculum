@@ -25,7 +25,7 @@ Scenario:
 
   - Take a stab at creating this
 
-![memory](https://github.com/chrisdavies/lessons/raw/master/img/memory-gameboard.gif)
+![memory](https://github.com/tiy-durham-fe-2015/lessons/raw/master/img/memory-gameboard.gif)
 
   - Don't worry about flipping the tiles (unless you want to!)
   - The grid should expand and contract if the window is resized
@@ -34,7 +34,7 @@ Scenario:
 
 - Implement this layout (stolen from Matt Keas):
 
-![toggle](https://github.com/chrisdavies/lessons/raw/master/img/tshirts.gif)
+![toggle](https://github.com/tiy-durham-fe-2015/lessons/raw/master/img/tshirts.gif)
 
 - There's a whole lot going on here, so don't sweat it if you get stuck
 
