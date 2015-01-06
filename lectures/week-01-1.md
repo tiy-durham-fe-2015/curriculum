@@ -14,6 +14,7 @@ like Smashing Boxes' website," they say. What do you do?
     - Content: HTML
     - Style: CSS
     - Interaction & logic: JavaScript
+  - Syntax
   - Pull up jsbin and have the class follow along
   - http://meettheipsums.com
   - HTML: h1...h6, p, img, a, div
@@ -29,6 +30,37 @@ like Smashing Boxes' website," they say. What do you do?
   - Images & icons
   - Patterns (error messages, profile pictures, etc)
   - Hallway testing
+
+## Notes
+
+### Syntax
+Punctuation matters.
+
+[TShirt](http://www.signals.com/signals/T-Shirts-Sweatshirts-Hoodies_4AA/View-All-T-Shirts-Sweatshirts_4AALL/Item_s-Commas-Save-Lives-Shirts_HN3281.html)
+
+  > Let's eat Grandma. Let's eat, Grandma. Commas save lives.
+
+So does a clear end to your statements.
+
+  > Time flies like an arrow fruit flies like bananas.
+
+  > Time flies like an arrow. Fruit flies like bananas.
+
+With computers, punctuation and clearly defined statements *really* matter.
+
+Order matters. These are two very diffrent statments:
+
+  > The thing is a soccer ball. The soccer ball is a thing.
+
+HTML, CSS, and JavaScript all have their own syntaxes
+
+  HTML:
+
+    <tag attrib-name="attrib-value" attrib2-name="attrib-2-value" />
+    <tag>Content</tag>
+    <!-- comments -->
+    <tag attrib-name="you can't put a quote: " in an attribute value">
+    <tag attrib-name="you can put an escaped quote: &quot; in an attribute value">
 
 ## Exercise
 
