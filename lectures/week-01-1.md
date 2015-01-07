@@ -62,6 +62,55 @@ HTML, CSS, and JavaScript all have their own syntaxes
     <tag attrib-name="you can't put a quote: " in an attribute value">
     <tag attrib-name="you can put an escaped quote: &quot; in an attribute value">
 
+  CSS:
+
+    // The grammar consists of a selector statement, followed by a block of
+    // style properties.
+    //
+    // Blocks are denoted by an open { and a close }
+    //
+    // CSS properties are denoted by:
+    //  - property name
+    //  - :
+    //  - property value
+    //  - ;
+    //
+    // CSS assignment is a :
+    // CSS statement termination is either a ; (for ending property statements)
+    // or a } (for ending a block)
+    div {
+      color: black;
+      background: white;
+    }
+
+### CSS
+
+Colors. CSS colors are usually defined using hexadecimal (base 16) color notation:
+
+    // Syntax is # defines the beginning of a color
+    // The first 2 digits define the value of red
+    // The next 2 digits define the value of green
+    // The last 2 digits define the value of blue
+
+    #FF0000; // red
+    #00FF00; // green
+    #0000FF; // blue
+
+    // The shorthand notation uses only three digits:
+
+    #F00; // red
+    #0F0; // green
+    #00F; // blue
+
+Hexadecimal (or base 16) is really pretty easy. It's a way of defining the value
+0-15 using only one character (instead of the 2 that would be required in base
+10.) 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F
+
+So, FF is 255.
+
+Any color (red, gree, or blue) can have a value from 0 (0 = black) to FF (255 =
+full-strength).
+
 ## Exercise
 
 Create a blog layout. Blog posts have a header, multiple paragraphs, and
