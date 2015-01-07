@@ -124,6 +124,7 @@ After completing this assignment, you should be able to effectively...
 
 ## Nightmare Mode
 
+* Make questions reorderable via drag-and-drop
 * Add multiple choice question type
   * This is very similar to the "single choice" question mentioned above, except:
     * When taking the survey users can select any number of answers
