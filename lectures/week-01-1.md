@@ -111,11 +111,29 @@ So, FF is 255.
 Any color (red, gree, or blue) can have a value from 0 (0 = black) to FF (255 =
 full-strength).
 
-## Exercise
+More recent browsers also support rgba and hsla
+
+## Exercises
+
+
+Clone the week-1 starter project:
+
+* cd ~/src
+* git clone git@github.com:tiy-durham-fe-2015/week1_exercises.git
+* cd ~/src/week1_exercises
+* Atom .
+
+If you're not using Atom, open week1_exercises in your editor of choice...
+
+You'll be working from here and jsbin for your in-class exercises.
+
+### Basic Text Layout
 
 Create a blog layout. Blog posts have a header, multiple paragraphs, and
 an image or two. (You can download some from [pexels](http://www.pexels.com/).)
 Content should be centered on screen, but text should be left-aligned.
+
+Grab your text from here: http://meettheipsums.com/
 
 Play with color, if you want: [here's a color guide from Google](http://www.google.com/design/spec/style/color.html#color-color-palette)
 
@@ -124,6 +142,22 @@ Remember:
 - line-length should not exceed 70 characters
 - line-height should be proportional to the font-size
 - blocks should have extra space (usually a blank line) between them
+
+### Positioning
+
+When you're flying around the world, you often see a map that shows where your
+plane is relative to the planet. In this exercise, you're going to do that
+using CSS and HTML.
+
+The plane image is: img/plane.svg
+
+The map image is: img/world-map.jpg
+
+Using CSS positioning, put the plane somewhere over florida.
+
+Next, allow the world map to resize with the width of the browser, and make sure
+the plane remains over florida, even when the map size changes.
+
 
 ## Assignment
 
