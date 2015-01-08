@@ -2,7 +2,9 @@
 
 Here are the most useful Atom editor plugins and shortcuts (in my opinion).
 
-## Plugins
+## My Configuration
+
+### My Plugins
 
 * Archive View
 * Atom Syntax Hilighting for Sass
@@ -15,7 +17,6 @@ Here are the most useful Atom editor plugins and shortcuts (in my opinion).
 * Color Gutter
 * Color Picker
 * Command Palette
-* Emmet
 * Fuzzy Finder
 * Go To Line
 * Refactor
@@ -25,13 +26,45 @@ Here are the most useful Atom editor plugins and shortcuts (in my opinion).
 * Sublime Tabs
 * Wrap Guide
 
+### My Snippet(s)
+
+My snippet file (Atom &gt; Open Your Snippets) looks like this:
+
+    '.html':
+      'HTML5 Boilerplate':
+        'prefix': 'HTML5'
+        'body': """<!DOCTYPE html>
+        <html>
+          <head>
+            <meta charset="utf-8">
+            <title>Title</title>
+          </head>
+          <body>
+          </body>
+        </html>"""
+
+### My Atom Stylesheet
+
+In my stylesheet (Atom &gt; Open Your Stylesheet) I added this to the bottom:
+
+
+    /*
+    * Make matching brackets hilight in green
+    */
+    .bracket-matcher {
+        border-bottom: 1px solid lime;
+        position: absolute;
+        border: 1px solid rgba(0, 255, 0, 0.7);
+        background-color: rgba(0, 255, 0, 0.3);
+    }
+
 
 ## Shortcuts
 
 Rename HTML tag:
 
     Ctrl + Shift + U
-    
+
 Rename JS variable/function:
 
     Ctrl + Alt + r
@@ -52,17 +85,17 @@ Cut move line:
 
     Ctrl + Cmd + [up]
     Ctrl + Cmd + [down]
-  
+
 Comment current selection/line:
 
     Cmd + /
-  
+
 Select current line:
 
     Cmd + l
-    
+
 Color picker:
-    
+
     Cmd + Shift + C
 
 ## For more, see
