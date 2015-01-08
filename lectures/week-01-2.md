@@ -8,7 +8,7 @@ Now, how do you get back to the version that looked good?
 
 - Review previous lesson
 - Conventions, casing, naming, etc
-- CSS: box-model, fonts, overflow, opacity, overflow, pseudo-selectors, responsive design
+- CSS: box-model, fonts, overflow, opacity, pseudo-selectors, responsive design
 - More HTML: (main, article, nav, header, footer)
 
 - Terminal & Git basics
@@ -24,6 +24,12 @@ Create a chat text-bubble layout... Here's some inspiration:
 
 - https://dribbble.com/shots/1164814-iOS-7-Chat-View-Interaction-Animation-and-Freebie
 - https://dribbble.com/shots/640702-Speech-Bubbles
+
+If you need an image for the person doing the talking, here are some dashing
+profile pics you can use:
+
+- https://avatars.githubusercontent.com/u/833377?v=3
+- https://avatars.githubusercontent.com/u/2739321?v=3
 
 ### Modal
 

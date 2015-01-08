@@ -62,22 +62,24 @@ HTML, CSS, and JavaScript all have their own syntaxes
     <tag attrib-name="you can't put a quote: " in an attribute value">
     <tag attrib-name="you can put an escaped quote: &quot; in an attribute value">
 
+
   CSS:
 
-    // The grammar consists of a selector statement, followed by a block of
-    // style properties.
-    //
-    // Blocks are denoted by an open { and a close }
-    //
-    // CSS properties are denoted by:
-    //  - property name
-    //  - :
-    //  - property value
-    //  - ;
-    //
-    // CSS assignment is a :
-    // CSS statement termination is either a ; (for ending property statements)
-    // or a } (for ending a block)
+    /* The grammar consists of a selector statement, followed by a block of
+    * style properties.
+    *
+    * Blocks are denoted by an open { and a close }
+    *
+    * CSS properties are denoted by:
+    *  property name
+    *  :
+    *  property value
+    *  ;
+    *
+    * CSS assignment is a :
+    * CSS statement termination is either a ; (for ending property statements)
+    * or a } (for ending a block)
+    */
     div {
       color: black;
       background: white;
@@ -108,28 +110,16 @@ Hexadecimal (or base 16) is really pretty easy. It's a way of defining the value
 
 So, FF is 255.
 
-Any color (red, gree, or blue) can have a value from 0 (0 = black) to FF (255 =
+Any color (red, green, or blue) can have a value from 0 (0 = black) to FF (255 =
 full-strength).
 
-More recent browsers also support rgba and hsla
+More recent browsers also support rgba and hsla. Look em up. They're swell.
 
 ## Exercises
 
-
-Clone the week-1 starter project:
-
-* cd ~/src
-* git clone git@github.com:tiy-durham-fe-2015/week1_exercises.git
-* cd ~/src/week1_exercises
-* Atom .
-
-If you're not using Atom, open week1_exercises in your editor of choice...
-
-You'll be working from here and jsbin for your in-class exercises.
-
 ### Basic Text Layout
 
-Create a blog layout. Blog posts have a header, multiple paragraphs, and
+Using jsbin, create a blog layout. Blog posts have a header, multiple paragraphs, and
 an image or two. (You can download some from [pexels](http://www.pexels.com/).)
 Content should be centered on screen, but text should be left-aligned.
 
@@ -149,9 +139,9 @@ When you're flying around the world, you often see a map that shows where your
 plane is relative to the planet. In this exercise, you're going to do that
 using CSS and HTML.
 
-The plane image is: img/plane.svg
+The plane image is: http://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Aircraft_silhouette.svg/80px-Aircraft_silhouette.svg.png
 
-The map image is: img/world-map.jpg
+The map image is: http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Eckert4.jpg/1024px-Eckert4.jpg
 
 Using CSS positioning, put the plane somewhere over florida.
 

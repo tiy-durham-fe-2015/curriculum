@@ -18,24 +18,17 @@ Scenario:
 
 ### Create a dropdown menu
 
-  - [Here's some inspiration](https://dribbble.com/shots/850410-Dropdown-Menu-UI?list=searches&tag=dropdown&offset=4)
-  - When you hover over the settings element, the menu should show
-
-### Create a game grid
-
-  - Take a stab at creating this
-
-![memory](https://github.com/tiy-durham-fe-2015/curriculum/raw/master/img/memory-gameboard.gif)
-
-  - Don't worry about flipping the tiles (unless you want to!)
-  - The grid should expand and contract if the window is resized
-
-## Assignment
-
-- Implement this layout (stolen from Matt Keas):
-
 ![toggle](https://github.com/tiy-durham-fe-2015/curriculum/raw/master/img/tshirts.gif)
 
-- There's a whole lot going on here, so don't sweat it if you get stuck
+* When you hover over xl, the sizes should fade and slide in
+* When hou hover over color, the color-list should fade and slide in
 
-- If you get done, finish the in-class exercises
+### Create a Flip Animation
+
+* See the above photo and implement a flip animation similar to the t-shirt flip
+* See this CSS for a starter:
+* https://github.com/daneden/animate.css/blob/master/source/flippers/flip.css
+
+## Weekend Assignment
+
+Implement the memory game layout detailed here: [memory layout](https://github.com/tiy-durham-fe-2015/curriculum/tree/master/assignments/memory-layout)
