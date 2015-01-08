@@ -32,3 +32,5 @@ Scenario:
 ## Weekend Assignment
 
 Implement the memory game layout detailed here: [memory layout](https://github.com/tiy-durham-fe-2015/curriculum/tree/master/assignments/memory-layout)
+
+Read this: http://sass-guidelin.es/

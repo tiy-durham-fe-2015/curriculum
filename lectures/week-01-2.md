@@ -47,3 +47,4 @@ Create a modal. For example:
 - Finish implementing yesterday's assignment: http://academy.smashingboxes.com/
 - Finish your in-class exercises
 - Play this: http://flukeout.github.io/
+- Read the first 1/2 of this: http://cssguidelin.es/
