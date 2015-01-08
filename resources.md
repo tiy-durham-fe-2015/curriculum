@@ -2,6 +2,11 @@
 
 Here is a big dump of lots of resources for front-end devs.
 
+## My Atom Setup
+
+Here's how I have Atom configured on my machine:
+https://github.com/tiy-durham-fe-2015/curriculum/blob/master/atom-cheat-sheet.md
+
 ## Git
 
 Good tutorial:
@@ -33,9 +38,10 @@ Simple grid system:
 http://jeet.gs/
 
 Animations:
-http://daneden.github.io/animate.css/
-http://www.justinaguilar.com/animations/index.html
-http://leaverou.github.io/animatable/
+
+* http://daneden.github.io/animate.css/
+* http://www.justinaguilar.com/animations/index.html
+* http://leaverou.github.io/animatable/
 
 Start a server in any directory on Mac:
 
@@ -53,14 +59,26 @@ Free resources for designers:
 https://medium.com/@ingojoseph/free-design-resources-187bb30cc762
 
 Preprocessors
-http://learnboost.github.io/stylus/
-http://sass-lang.com/
-http://lesscss.org/
 
-Frameworks
-http://thoughtbot.com/open-source
-http://getbootstrap.com/
-http://foundation.zurb.com/
+* http://learnboost.github.io/stylus/
+* http://sass-lang.com/
+* http://lesscss.org/
+
+Frameworks, grids, etc
+
+* http://purecss.io/
+* http://getskeleton.com/
+* http://susy.oddbird.net/
+* http://thoughtbot.com/open-source
+* http://getbootstrap.com/
+* http://foundation.zurb.com/
+
+CSS guidelines: http://cssguidelin.es/
+
+SCSS guidelines: http://sass-guidelin.es/
+
+CSS Specificity rules:
+https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
 
 ### Tutorials & Articles
 
@@ -89,8 +107,9 @@ CSS tips, tricks, and references:
 http://css-tricks.com/almanac/
 
 The power of CSS illustrated:
-http://a.singlediv.com/
-http://www.csszengarden.com/
+
+* http://a.singlediv.com/
+* http://www.csszengarden.com/
 
 Intro to OOCSS:
 http://www.codersgrid.com/2013/05/10/how-to-code-better-css/
@@ -99,18 +118,20 @@ Video tutorials on all things web-programming:
 https://www.bento.io/
 
 Free Images
-http://www.pexels.com/
-https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b
+
+* http://www.pexels.com/
+* https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b
 
 Fonts
-http://fontsquirrel.com
-http://google.com/fonts
+
+* http://fontsquirrel.com
+* http://google.com/fonts
 
 Icon fonts:
 
-http://iconmonstr.com/
-http://app.fontastic.me/
-http://fontello.com
+* http://iconmonstr.com/
+* http://app.fontastic.me/
+* http://fontello.com
 
 There's a good list of free fonts at the bottom of this article:
 
@@ -118,13 +139,13 @@ https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de53
 
 Inspiration
 
-http://codepen.io/patterns/
-https://dribbble.com
-http://squarespace.com/
-http://thoughtbot.com/
-http://line25.com/
-http://land-book.com/
-http://www.awwwards.com/
+* http://codepen.io/patterns/
+* https://dribbble.com
+* http://squarespace.com/
+* http://thoughtbot.com/
+* http://line25.com/
+* http://land-book.com/
+* http://www.awwwards.com/
 
 ## JavaScript
 
@@ -147,6 +168,9 @@ http://www.jsdares.com/
 
 Intro to functional programming:
 http://scott.sauyet.com/Javascript/Talk/FunctionalProgramming/
+
+JS style guide:
+http://javascript.crockford.com/code.html
 
 ### Libraries
 
@@ -173,8 +197,9 @@ http://eloquentjavascript.net/
 ### General Tech
 
 Blogs & News
-https://news.ycombinator.com/
-https://signalvnoise.com/
+
+* https://news.ycombinator.com/
+* https://signalvnoise.com/
 
 Gulp stuff:
 https://developers.google.com/web/fundamentals/tools/build/setupbuildprocess?hl=en
