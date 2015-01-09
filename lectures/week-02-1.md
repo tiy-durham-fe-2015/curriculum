@@ -29,6 +29,25 @@ Concepts:
   - http://jsbin.com/gebigutosi/1/edit?html,js,output
 - Syntax
 
+## Semicolon Insertion
+
+    // Wrong
+    function doStuff() {
+      return // semicolon is inserted here
+      {
+        hello: 'world';
+      }
+    }
+
+    doStuff() // returns undefined
+
+    // Right
+    function doStuff() {
+      return {
+        hello: 'world';
+      }
+    }
+
 ## Exercise(s)
 
 ### Calculator

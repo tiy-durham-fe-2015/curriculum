@@ -8,13 +8,60 @@ Now, how do you get back to the version that looked good?
 
 - Review previous lesson
 - Conventions, casing, naming, etc
-- CSS: box-model, fonts, overflow, opacity, pseudo-selectors, responsive design
+- CSS:
+  - Specificity
+    - Universal selectors
+    - Type selectors
+    - Class selectors
+    - Attributes selectors
+    - Pseudo-classes
+    - ID selectors
+    - Inline style
+  - box-model
+    - content-box
+    - padding-box
+    - border-box
+  - fonts
+    - discuss icon fonts
+  - overflow
+    - visible
+    - hidden
+    - scroll
+    - auto
+  - opacity
+  - pseudo-selectors
+    - :visited
+    - :before
+    - :after
+    - :hover
+    - :empty
+    - :first-child()
+    - :last-child()
+    - :nth-child()
+  - responsive design
 - More HTML: (main, article, nav, header, footer)
 
 - Terminal & Git basics
   - pwd, cd, mkdir, ls, open, Atom
   - git branch, add, commit, push, pull
 - GitHub source and pages
+
+## Notes
+
+CSS specificity rules:
+https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
+
+CSS box-sizing:
+https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
+
+CSS pseudo-classes:
+https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
+
+CSS responsive-design media queries:
+http://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+
+Git cheat sheet:
+https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
 
 ## Exercise(s)
 

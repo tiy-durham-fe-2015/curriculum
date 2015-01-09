@@ -47,11 +47,6 @@ Start a server in any directory on Mac:
 
     python -m SimpleHTTPServer 8000
 
-Live reloading of a site:
-http://nitoyon.github.io/livereloadx/
-
-	  livereloadx --include *.* .
-
 Google design guidelines:
 http://www.google.com/design/spec/material-design/introduction.html
 
@@ -133,9 +128,11 @@ Icon fonts:
 * http://app.fontastic.me/
 * http://fontello.com
 
-There's a good list of free fonts at the bottom of this article:
+Some curated lists of web fonts:
 
-https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96
+* At the bottom of this article: https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96
+* http://hellohappy.org/beautiful-web-type/
+*
 
 Inspiration
 
@@ -192,6 +189,11 @@ http://brm.io/matter-js
 Books
 http://eloquentjavascript.net/
 
+
+### Git
+
+Git cheat sheet:
+https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
 
 
 ### General Tech

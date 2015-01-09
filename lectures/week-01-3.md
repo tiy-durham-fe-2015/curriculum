@@ -7,10 +7,32 @@ their clients... How do you do that?
 
 - Review previous lesson
 - Forms, forms, and more forms
+  - form, action, method
+  - input
+    - text
+    - checkbox
+    - radio
+  - label
+  - textarea
+  - select
+  - button
 - HTML breakdown
-  - structural: div, nav, article, main, header, footer, ul, ol
-  - textual/content: p, h1..h6, li, span, img
-  - interactive: a, input, textarea, button
+  - structural: div, nav, article, main, header, footer, ul, ol...
+  - textual/content: p, h1..h6, li, span, img...
+  - interactive: a, input, textarea, button...
+
+### Notes
+
+Datalists are a purty cewl new feature, but only IE10 and similarly new browsers:
+
+    <label>Student:</label>
+    <input list="students-datalist" />
+    <datalist id="students-datalist">
+      <option value="Chris Davies">
+      <option value="Tom Rau">
+      <option value="Hodor">
+      <option value="Jon Stewart">
+    </datalist>
 
 ## Exercise(s)
 

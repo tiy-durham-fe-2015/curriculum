@@ -5,11 +5,6 @@ Scenario:
 ## Topics
 
 - Review previous lesson
-- Forms, forms, and more forms
-- HTML breakdown
-  - structural: div, nav, article, main, header, footer, ul, ol
-  - textual/content: p, h1..h6, li, span, img
-  - interactive: a, input, textarea, button
 - SCSS & intro to build processes
 - More pseudo selectors, :valid, :invalid, :required, etc
 - CSS animations and transitions
