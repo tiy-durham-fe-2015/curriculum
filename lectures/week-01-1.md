@@ -5,8 +5,6 @@ like Smashing Boxes' website," they say. What do you do?
 
 ## Topics
 
-- Icebreaker
-- Boundaries & expectations
 - How the web works
 - Introduction to HTML & CSS
   - Markup, a brief history
@@ -85,7 +83,23 @@ HTML, CSS, and JavaScript all have their own syntaxes
       background: white;
     }
 
+### HTML
+
+* Deals with content
+* Processed in order (top to bottom)
+*
+
 ### CSS
+
+* Selectors
+* Colors
+* Fonts
+* Borders (like a frame)
+* Padding (like matting)
+* Sizing (px, em, rem, %)
+* Margin (the space between elements)
+* Background
+* Positioning
 
 Colors. CSS colors are usually defined using hexadecimal (base 16) color notation:
 
@@ -114,6 +128,12 @@ Any color (red, green, or blue) can have a value from 0 (0 = black) to FF (255 =
 full-strength).
 
 More recent browsers also support rgba and hsla. Look em up. They're swell.
+
+## HREF vs SRC
+
+Href is used to point to resources that are related to a document. SRC is used
+to point to a resource that should at as a replacement for the element on which
+it is an attribute.
 
 ## Exercises
 
