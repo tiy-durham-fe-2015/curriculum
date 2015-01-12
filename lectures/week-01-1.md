@@ -181,3 +181,5 @@ Don't worry about the animations, hover effects, forms, etc.
   - Implement the page header details
   - Implement the page "hero" block details
   - etc.
+
+Read this: http://www.brainpickings.org/2014/01/29/carol-dweck-mindset/
