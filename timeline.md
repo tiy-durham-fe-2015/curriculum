@@ -57,6 +57,7 @@
 * Controllers
 * Views
 * Data binding
+* Collab w/ Rails class
 
 ## Week 6:
 
