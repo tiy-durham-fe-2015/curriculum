@@ -7,8 +7,7 @@ Now, how do you get back to the version that looked good?
 ## Topics
 
 - Review previous lesson
-- Conventions, casing, naming, etc
-- CSS:
+  - opacity
   - Specificity
     - Universal selectors
     - Type selectors
@@ -17,18 +16,35 @@ Now, how do you get back to the version that looked good?
     - Pseudo-classes
     - ID selectors
     - Inline style
+  - Conventions, casing, naming, etc
+- CSS:
+  - Don't use IDs...
+  - float
+  - position
+    - fixed
+    - absolute
+    - relative
+    - static
+  - color (foreground: borders & text)
+  - background
+    - images
+    - positioning
+    - scaling
+    - stacking
+    - repeating
   - box-model
     - content-box
     - padding-box
     - border-box
   - fonts
+    - line-height
+    - importing a font
     - discuss icon fonts
   - overflow
     - visible
     - hidden
     - scroll
     - auto
-  - opacity
   - pseudo-selectors
     - :visited
     - :before
@@ -39,7 +55,6 @@ Now, how do you get back to the version that looked good?
     - :last-child()
     - :nth-child()
   - responsive design
-- More HTML: (main, article, nav, header, footer)
 
 - Terminal & Git basics
   - pwd, cd, mkdir, ls, open, Atom
@@ -47,6 +62,11 @@ Now, how do you get back to the version that looked good?
 - GitHub source and pages
 
 ## Notes
+
+Things I forgot to cover (or didn't know) yesterday:
+
+* Border width does not support percentages
+* Don't use #id selectors in CSS (pretty much ever)
 
 CSS specificity rules:
 https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity

@@ -135,6 +135,7 @@ Href is used to point to resources that are related to a document. SRC is used
 to point to a resource that should at as a replacement for the element on which
 it is an attribute.
 
+
 ## Exercises
 
 ### Basic Text Layout
