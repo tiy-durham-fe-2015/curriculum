@@ -25,10 +25,12 @@ Now, how do you get back to the version that looked good?
     - absolute
     - relative
     - static
+    - y is zero to +infinity in the downward direction
   - color (foreground: borders & text)
   - background
     - images
     - positioning
+      - x y
     - scaling
     - stacking
     - repeating
@@ -55,11 +57,19 @@ Now, how do you get back to the version that looked good?
     - :last-child()
     - :nth-child()
   - responsive design
+- favicons
 
 - Terminal & Git basics
   - pwd, cd, mkdir, ls, open, Atom
   - git branch, add, commit, push, pull
 - GitHub source and pages
+  - Walk through setting up the homework:
+    - tiy-site folder
+    - git init
+    - .gitignore
+    - commiting
+    - branch (gh-pages)
+    - pushing to GitHub
 
 ## Notes
 
@@ -114,4 +124,4 @@ Create a modal. For example:
 - Finish implementing yesterday's assignment: http://academy.smashingboxes.com/
 - Finish your in-class exercises
 - Play this: http://flukeout.github.io/
-- Read the first 1/2 of this: http://cssguidelin.es/
+- Read this: http://blog.froont.com/9-basic-principles-of-responsive-web-design/

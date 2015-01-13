@@ -71,4 +71,4 @@ https://dribbble.com/shots/218427-Ui-Elements-Free-PSD?list=searches&tag=checkbo
 ![toggle](https://github.com/tiy-durham-fe-2015/curriculum/raw/master/img/checkbox-toggle.gif)
 
 - Play this again: http://flukeout.github.io/
-- Finish reading this: http://cssguidelin.es/
+- Read this: http://cssguidelin.es/
