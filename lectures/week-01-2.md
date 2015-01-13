@@ -18,15 +18,17 @@ Now, how do you get back to the version that looked good?
     - Inline style
   - Conventions, casing, naming, etc
 - CSS:
+  - If you're often repeating yourself, something's wrong
   - Don't use IDs...
   - float
+  - color (foreground: borders & text)
   - position
     - fixed
     - absolute
     - relative
     - static
+    - z-index
     - y is zero to +infinity in the downward direction
-  - color (foreground: borders & text)
   - background
     - images
     - positioning
@@ -56,7 +58,10 @@ Now, how do you get back to the version that looked good?
     - :first-child()
     - :last-child()
     - :nth-child()
-  - responsive design
+  - responsive design vs adaptive (breakpoints)
+
+    @media (min-width: 700px), handheld and (orientation: landscape)
+
 - favicons
 
 - Terminal & Git basics
@@ -88,7 +93,9 @@ CSS pseudo-classes:
 https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
 
 CSS responsive-design media queries:
-http://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+
+* http://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+* https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries
 
 Git cheat sheet:
 https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
