@@ -5,6 +5,7 @@ their clients... How do you do that?
 
 ## Topics
 
+- Intro to Atom (or editors) and gulp (lite)
 - Review previous lesson
 - Forms, forms, and more forms
   - form, action, method

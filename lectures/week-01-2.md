@@ -21,6 +21,11 @@ Now, how do you get back to the version that looked good?
   - If you're often repeating yourself, something's wrong
   - Don't use IDs...
   - float
+  - overflow
+    - visible
+    - hidden
+    - auto
+    - scroll
   - color (foreground: borders & text)
   - position
     - fixed
@@ -44,11 +49,6 @@ Now, how do you get back to the version that looked good?
     - line-height
     - importing a font
     - discuss icon fonts
-  - overflow
-    - visible
-    - hidden
-    - scroll
-    - auto
   - pseudo-selectors
     - :visited
     - :before
@@ -115,6 +115,10 @@ profile pics you can use:
 - https://avatars.githubusercontent.com/u/833377?v=3
 - https://avatars.githubusercontent.com/u/2739321?v=3
 
+#### Solution
+
+http://jsbin.com/jowizijaci/1/edit?html,output
+
 ### Modal
 
 Create a modal. For example:
@@ -126,6 +130,8 @@ Create a modal. For example:
 - The content should be scrollable if it gets really long
 
 ## Assignment
+
+TODO: document git commands, GitHub instructions
 
 - Create a git repo for yesterday's assignment
 - Finish implementing yesterday's assignment: http://academy.smashingboxes.com/
