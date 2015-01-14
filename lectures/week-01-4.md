@@ -4,7 +4,9 @@ Scenario:
 
 ## Topics
 
-- Review previous lesson
+- How to do a grid
+	- Keep aspect ratio
+	- How to center transform: translate(-50%, -50%)
 - SCSS & intro to build processes
 - More pseudo selectors, :valid, :invalid, :required, etc
 - CSS animations and transitions
