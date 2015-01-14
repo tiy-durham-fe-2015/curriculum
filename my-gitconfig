@@ -22,3 +22,5 @@
 	added = yellow
 	changed = green
 	untracked = cyan
+[alias]
+	gui = !sh -c '/usr/local/git/libexec/git-core/git-gui' 
