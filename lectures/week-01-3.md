@@ -57,11 +57,13 @@ https://dribbble.com/shots/218427-Ui-Elements-Free-PSD?list=searches&tag=checkbo
   - By signing up, you are accepting terms and conditions (checkbox)
   - Signup (button)
 
+    <input type="text" pattern="[A-Za-z]{3}">
+
 ## Assignment
 
 - Finish the form layout from class
 
-- Use the pattern attribute to validate field formats
+- If you want a challenge, use the pattern attribute to validate field formats
   - http://www.w3schools.com/tags/att_input_pattern.asp
   - Here are some common patterns: http://html5pattern.com/
   - Style invalid elements using the :invalid selectors
