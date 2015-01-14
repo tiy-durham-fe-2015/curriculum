@@ -8,6 +8,7 @@ Scenario:
 - SCSS & intro to build processes
 - More pseudo selectors, :valid, :invalid, :required, etc
 - CSS animations and transitions
+- Styling checkboxes and radios
 
 ## Exercise(s)
 
