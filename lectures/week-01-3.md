@@ -42,7 +42,9 @@ their clients... How do you do that?
 https://dribbble.com/shots/218427-Ui-Elements-Free-PSD?list=searches&tag=checkbox&offset=8
   - Note, use a check font (http://fontello.com/)
 
-### Form layout
+## Assignment
+
+- Create a project called: "tiy-form" and do this:
 
 - Create a user details form with the following entries:
   - Full name
@@ -58,8 +60,6 @@ https://dribbble.com/shots/218427-Ui-Elements-Free-PSD?list=searches&tag=checkbo
   - Signup (button)
 
     <input type="text" pattern="[A-Za-z]{3}">
-
-## Assignment
 
 - Finish the form layout from class
 
