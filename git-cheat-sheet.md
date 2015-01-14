@@ -1,5 +1,8 @@
 # TODO
 
+Install this:
+https://github.com/jimeh/git-aware-prompt
+
 git init
 
 git add .
