@@ -22,6 +22,9 @@ http://apps.eky.hk/css-triangle-generator/
 Text shadow, and other cewl stuff:
 http://www.css3generator.in/text-shadow.html
 
+Media queries (responsive) for standard devices:
+http://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+
 Test for browser support:
 http://caniuse.com
 
@@ -132,7 +135,7 @@ Some curated lists of web fonts:
 
 * At the bottom of this article: https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96
 * http://hellohappy.org/beautiful-web-type/
-*
+
 
 Inspiration
 

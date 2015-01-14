@@ -41,10 +41,6 @@ Now, how do you get back to the version that looked good?
     - scaling
     - stacking
     - repeating
-  - box-model
-    - content-box
-    - padding-box
-    - border-box
   - fonts
     - line-height
     - importing a font
@@ -58,9 +54,6 @@ Now, how do you get back to the version that looked good?
     - :first-child()
     - :last-child()
     - :nth-child()
-  - responsive design vs adaptive (breakpoints)
-
-    @media (min-width: 700px), handheld and (orientation: landscape)
 
 - favicons
 

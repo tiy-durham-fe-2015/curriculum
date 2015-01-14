@@ -5,8 +5,23 @@ their clients... How do you do that?
 
 ## Topics
 
+- Use gulp: https://github.com/tiy-durham-fe-2015/gulp-lite
 - Intro to Atom (or editors) and gulp (lite)
-- Review previous lesson
+
+- Web-fonts
+  - http://hellohappy.org/beautiful-web-type/
+  - http://app.fontastic.me/
+
+- Tables vs display: table
+
+- box-model
+  - content-box
+  - border-box
+
+- responsive design vs adaptive (breakpoints)
+
+    @media (max-width: 700px)
+
 - Forms, forms, and more forms
   - form, action, method
   - input
@@ -17,23 +32,7 @@ their clients... How do you do that?
   - textarea
   - select
   - button
-- HTML breakdown
-  - structural: div, nav, article, main, header, footer, ul, ol...
-  - textual/content: p, h1..h6, li, span, img...
-  - interactive: a, input, textarea, button...
 
-### Notes
-
-Datalists are a purty cewl new feature, but only IE10 and similarly new browsers:
-
-    <label>Student:</label>
-    <input list="students-datalist" />
-    <datalist id="students-datalist">
-      <option value="Chris Davies">
-      <option value="Tom Rau">
-      <option value="Hodor">
-      <option value="Jon Stewart">
-    </datalist>
 
 ## Exercise(s)
 
@@ -73,3 +72,17 @@ https://dribbble.com/shots/218427-Ui-Elements-Free-PSD?list=searches&tag=checkbo
 
 - Play this again: http://flukeout.github.io/
 - Read this: http://cssguidelin.es/
+
+## Related Resources
+
+Stuff about @font-face and font-family:
+
+http://css-tricks.com/snippets/css/using-font-face/
+
+Stuff about the mobile meta tag:
+
+http://css-tricks.com/snippets/html/responsive-meta-tag/
+
+MDN on all the various display options:
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/display
