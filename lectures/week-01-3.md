@@ -77,6 +77,10 @@ https://dribbble.com/shots/218427-Ui-Elements-Free-PSD?list=searches&tag=checkbo
 
 ## Related Resources
 
+What I did up front today is in this project:
+
+https://github.com/tiy-durham-fe-2015/week1-3-examples
+
 Stuff about @font-face and font-family:
 
 http://css-tricks.com/snippets/css/using-font-face/
