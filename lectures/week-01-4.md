@@ -4,14 +4,18 @@ Scenario:
 
 ## Topics
 
-- How to do a grid
-	- Keep aspect ratio
-	- How to center transform: translate(-50%, -50%)
+- Expectation of refined styling moving forward
+- How to set up SSH with git (GitHub > Preferences > Advanced > Install Command Line Tools)
+
 - SCSS & intro to build processes
   - Nesting
   - Variables
   - Imports
   - Functions
+- Intro to gulp
+- How to do a grid
+	- Keep aspect ratio
+	- How to center transform: translate(-50%, -50%)
 - More pseudo selectors, :valid, :invalid, :required, etc
 - CSS animations and transitions
   * http://ianlunn.github.io/Hover/
@@ -24,7 +28,7 @@ Scenario:
 
 Tots stolen from here: http://sass-guidelin.es/#lightening-and-darkening-colors
 
-     /// Slightly lighten a color
+    /// Slightly lighten a color
     /// @access public
     /// @param {Color} $color - color to tint
     /// @param {Number} $percentage - percentage of `$color` in returned color

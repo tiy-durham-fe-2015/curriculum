@@ -140,6 +140,7 @@ Some curated lists of web fonts:
 
 Inspiration
 
+* http://html5up.net/
 * http://codepen.io/patterns/
 * https://dribbble.com
 * http://squarespace.com/
