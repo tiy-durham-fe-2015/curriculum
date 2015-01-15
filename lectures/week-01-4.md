@@ -8,6 +8,10 @@ Scenario:
 	- Keep aspect ratio
 	- How to center transform: translate(-50%, -50%)
 - SCSS & intro to build processes
+  - Nesting
+  - Variables
+  - Imports
+  - Functions
 - More pseudo selectors, :valid, :invalid, :required, etc
 - CSS animations and transitions
   * http://ianlunn.github.io/Hover/
@@ -15,6 +19,28 @@ Scenario:
   * http://www.justinaguilar.com/animations/index.html
   * http://leaverou.github.io/animatable/
 - Styling checkboxes and radios
+
+## Useful SASS function to demo in class:
+
+Tots stolen from here: http://sass-guidelin.es/#lightening-and-darkening-colors
+
+     /// Slightly lighten a color
+    /// @access public
+    /// @param {Color} $color - color to tint
+    /// @param {Number} $percentage - percentage of `$color` in returned color
+    /// @return {Color}
+    @function tint($color, $percentage) {
+      @return mix($color, white, $percentage);
+    }
+
+    /// Slightly darken a color
+    /// @access public
+    /// @param {Color} $color - color to shade
+    /// @param {Number} $percentage - percentage of `$color` in returned color
+    /// @return {Color}
+    @function shade($color, $percentage) {
+      @return mix($color, black, $percentage);
+    }
 
 ## Exercise(s)
 
