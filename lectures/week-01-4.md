@@ -10,6 +10,10 @@ Scenario:
 - SCSS & intro to build processes
 - More pseudo selectors, :valid, :invalid, :required, etc
 - CSS animations and transitions
+  * http://ianlunn.github.io/Hover/
+  * http://daneden.github.io/animate.css/
+  * http://www.justinaguilar.com/animations/index.html
+  * http://leaverou.github.io/animatable/
 - Styling checkboxes and radios
 
 ## Exercise(s)

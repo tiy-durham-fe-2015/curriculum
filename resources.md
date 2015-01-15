@@ -42,8 +42,9 @@ http://jeet.gs/
 
 Animations:
 
-* http://daneden.github.io/animate.css/
 * http://www.justinaguilar.com/animations/index.html
+* http://ianlunn.github.io/Hover/
+* http://daneden.github.io/animate.css/
 * http://leaverou.github.io/animatable/
 
 Start a server in any directory on Mac:
