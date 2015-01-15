@@ -66,3 +66,7 @@ Tots stolen from here: http://sass-guidelin.es/#lightening-and-darkening-colors
 Implement the memory game layout detailed here: [memory layout](https://github.com/tiy-durham-fe-2015/curriculum/tree/master/assignments/memory-layout)
 
 Read this: http://sass-guidelin.es/
+
+## The source from today's lecture
+
+https://github.com/tiy-durham-fe-2015/week1-4-examples
