@@ -1,57 +1,76 @@
 # Week 2, Day 2
 
-Question: OK, calculators are boring. How do I do something really interactive?
+Concepts:
+
+* Debugging
+* Types
+* Variables
+* Functions
+* Math
 
 ## Topics
 
-- Review
-  - Strings, numbers, HTML binding, functions, debugging
-- Types: bool
-- Conditionals
-- DOM: querySelector, querySelectorAll, classList
-- Events: addEventListener, removeEventListener
-  - See MDN for a full list of available events:
-  - https://developer.mozilla.org/en-US/docs/Web/Events
+- Types 101
+  - numbers (floats, ints)
+  - operators, ceil, floor, round
+  - strings (text)
+  - string/number conversion String(23.4) and Number('23.4')
+  - string length, concatenation
+- variables
+  - naming, best-practices
+  - use-case: reduce duplication (reuse myName in many places, change one place)
+- debugging
+- functions
+  - a named block of code
+- comments
+- HTML binding
+  - Simple calc:
+  - http://jsbin.com/gebigutosi/1/edit?html,js,output
+- Syntax
+
+## Semicolon Insertion
+
+    // Wrong
+    function doStuff() {
+      return // semicolon is inserted here
+      {
+        hello: 'world';
+      }
+    }
+
+    doStuff() // returns undefined
+
+    // Right
+    function doStuff() {
+      return {
+        hello: 'world';
+      }
+    }
 
 ## Exercise(s)
 
-### Flyout Menu
+### Calculator
 
-- Create a dropdown menu like this one:
-https://dribbble.com/shots/850410-Dropdown-Menu-UI?list=searches&tag=dropdown_menu&offset=0
-- It should be hidden by default
-- When you click the "Admin Settings" button, the menu should show
-- When you click the menu, the button, or the page, the menu should hide
+- Implement the calculator that I demonstrated.
+- Make some new buttons (multiply, divide, and mod)
+- Try adding a third variable and textbox
 
-### Modal
+### Converter
 
-- Remember the modal CSS project you did? Cool.
-- Create a page with a button on it.
-- When you click the button, show a modal
-- When you click the greyed out background, hide the modal
-- When you click the [X] close button, hide the modal
+- Create a form where:
+  - User inputs "Quantity/volume"
+  - User clicks button "Cups to Quarts"
+  - Alert the amount in quarts (1 cup is 0.25 quarts)
+- Make a quarts to cups converter
+- Make a meters to yards converter
+- Make a yards to meters converter
+- Make a Fahrenheit to celcius converter
+- Make a celcius to Fahrenheit converter
 
 ## Assignment
 
-### Textarea With Max-length
-
-- Write JavaScript which finds any textareas that have a maxsize attribute:
-  (e.g. <textarea maxsize="25"></textarea>)
-- Write JavaScript to prevent the user from entering more than maxsize chars
-- As the user types, show them how many characters they have remaining
-
-![Textarea](https://github.com/tiy-durham-fe-2015/curriculum/raw/master/img/chars-left.gif)
-
-### Extra Credit: Auto-Grow Textarea
-
-- Create a textarea that grows (in height) so that it is always bigger than its text content
-- Hint: Google to see how this is generally done, but implement it yourself; don't copy/paste
-
-### Double Extra Credit: Dynamic List
-
-- Create a site with a textbox
-- When the user enters text into it, add another beneath it
-- When the user removes all text from a textbox, and the textbox loses focus, delete the textbox
-- There should always be at least one textbox
-
-![Dynamic list](https://github.com/tiy-durham-fe-2015/curriculum/raw/master/img/dynamic-list.gif)
+- Finish your converter logic
+- Pretty up your converter form(s) and publish to GitHub pages
+- Make sure your alerts read like English:
+  (e.g. if the user enters 34, alert "34 quarts is 136 cups")
+- See if you can output the results to the screen, instead of alerting them.
