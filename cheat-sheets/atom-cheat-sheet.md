@@ -43,20 +43,33 @@ My snippet file (Atom &gt; Open Your Snippets) looks like this:
           </body>
         </html>"""
 
+### My Atom Config
+
+If you want guide-lines showing  your indentation, here's how to do that.
+
+Atom > Open Your Config, then I made my editor block look like this (but remember, syntax matters):
+
+    editor:
+      showIndentGuide: true
+      autoIndentOnPaste: false
+      invisibles: {}
+
 ### My Atom Stylesheet
 
 In my stylesheet (Atom &gt; Open Your Stylesheet) I added this to the bottom:
 
-
     /*
     * Make matching brackets hilight in green
     */
-    .bracket-matcher {
-        border-bottom: 1px solid lime;
+    .editor, atom-text-editor::shadow {
+       .bracket-matcher {
+       border-bottom: 1px solid lime;
         position: absolute;
         border: 1px solid rgba(0, 255, 0, 0.7);
         background-color: rgba(0, 255, 0, 0.3);
+      }
     }
+
 
 
 ## Shortcuts
