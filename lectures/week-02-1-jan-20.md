@@ -1,12 +1,13 @@
 # Week 2, Day 1
 
-## Agenda
+## Topics
 
 Today, we're going to review week 1's concepts, and fill in any CSS/HTML gaps that
 remain.
 
-## Topics
+## Agenda
 
+- Walk through naming your layout components and not being overly specific
 - Talk about MVP
 - Talk about feature prioritization
 - How to think about building a web page
