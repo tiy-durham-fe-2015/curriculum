@@ -74,6 +74,10 @@ In my stylesheet (Atom &gt; Open Your Stylesheet) I added this to the bottom:
 
 ## Shortcuts
 
+Edit multiple lines:
+
+    Cmd + click any number of lines, then type or delete, or whatevz
+
 Rename HTML tag:
 
     Ctrl + Shift + U
