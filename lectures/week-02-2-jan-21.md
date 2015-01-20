@@ -15,6 +15,10 @@ Concepts:
   - operators, ceil, floor, round
   - strings (text)
   - string/number conversion String(23.4) and Number('23.4')
+    - new String("hi") !== new String("hi")
+    - String(23) === "23"
+    - +"32" === 32
+    - Number("32") === 32
   - string length, concatenation
 - variables
   - naming, best-practices
@@ -53,7 +57,7 @@ Concepts:
 
 - Implement the calculator that I demonstrated.
 - Make some new buttons (multiply, divide, and mod)
-- Try adding a third variable and textbox
+- Try adding the ability to add 3 numbers by adding a third variable and another textbox
 
 ### Converter
 
