@@ -6,6 +6,8 @@ This is an old-school game. The goal is to find all matching tiles. We'll
 actually implement this game later in the cohort. But for now, we're just going
 to lay the game board out.
 
+Here's the final project (working with JavaScript, so don't worry about that.... this is just for a point of reference): http://chrisdavies.github.io/memory/
+
 ## Objectives
 
 ### Learning Objectives (Front End)
