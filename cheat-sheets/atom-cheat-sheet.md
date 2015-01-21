@@ -115,6 +115,10 @@ Color picker:
 
     Cmd + Shift + C
 
+Edit multiple values:
+
+    Cmd + double-click the values, then edit
+
 ## For more, see
 
 http://d2wy8f7a9ursnm.cloudfront.net/atom-editor-cheat-sheet.pdf
