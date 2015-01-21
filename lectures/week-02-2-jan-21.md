@@ -40,6 +40,10 @@ Concepts:
   - http://jsbin.com/gebigutosi/1/edit?html,js,output
 - Syntax
 
+- Later lecture:
+  - Show how to use Atom instead of vim in git
+  - Show how to set up terminal to show branch
+
 ## Semicolon Insertion
 
     // Wrong
