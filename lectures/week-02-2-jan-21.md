@@ -1,5 +1,9 @@
 # Week 2, Day 2
 
+The code for week 2 is here:
+
+https://github.com/tiy-durham-fe-2015/wk2
+
 Concepts:
 
 * Debugging
@@ -60,6 +64,7 @@ Concepts:
 Fortune cookie...
 
 See fortune.js for details:
+
 https://github.com/tiy-durham-fe-2015/wk2
 
 ### Calculator
@@ -82,17 +87,24 @@ https://github.com/tiy-durham-fe-2015/wk2
 
 ## Assignment
 
-- Finish your converter logic
-- Pretty up your converter form(s) and publish to GitHub pages
+- Create a project called: "week2"
+- In this project, put your converter form (from the converter assignment above)
+- Use CSS to pretty up your converter form(s) and publish to GitHub pages
 - Make sure your alerts read like English:
   (e.g. if the user enters 34, alert "34 quarts is 136 cups")
+
+- Have a look at the number guessing game challenge found here:
+
+https://github.com/tiy-durham-fe-2015/wk2
+
+- Add that to your "week2" project
+- Once you get it working, push it to GitHub, too
 
 ### Stretch-goal:
 
 - See if you can output the results to the screen, instead of alerting them.
 
-- Well, I'll show you a solution that will work:
-
+- I'll show you one solution that will work:
 - Let's say you have some HTML that looks like this:
 
     <p class="some-element"></p>
