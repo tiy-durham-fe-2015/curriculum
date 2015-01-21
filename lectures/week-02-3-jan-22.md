@@ -6,8 +6,6 @@ Question: OK, calculators are boring. How do I do something really interactive?
 
 - Review
   - Strings, numbers, HTML binding, functions, debugging
-- Types: bool
-- Conditionals
 - DOM: querySelector, querySelectorAll, classList
 - Events: addEventListener, removeEventListener
   - See MDN for a full list of available events:

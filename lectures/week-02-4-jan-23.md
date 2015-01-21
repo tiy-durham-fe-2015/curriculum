@@ -57,6 +57,8 @@ Summary: records and sets
 
 ## Assignment
 
+- Read this: http://learnxinyminutes.com/docs/javascript/
+
 - Finish up the exercise from class
 - Add a form that allows you to enter new roles
 - New roles should obviously have 0 user-count

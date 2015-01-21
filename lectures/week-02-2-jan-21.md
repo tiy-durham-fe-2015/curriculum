@@ -13,13 +13,17 @@ Concepts:
 - Types 101
   - numbers (floats, ints)
   - operators, ceil, floor, round
+    - mod === remainder
   - strings (text)
   - string/number conversion String(23.4) and Number('23.4')
     - new String("hi") !== new String("hi")
     - String(23) === "23"
     - +"32" === 32
     - Number("32") === 32
+    - parseInt("23adfasdfa32") works
+    - Number("23dfjasdfaj32") === NaN
   - string length, concatenation
+  - bools, conditionals
 - variables
   - naming, best-practices
   - use-case: reduce duplication (reuse myName in many places, change one place)
@@ -53,6 +57,11 @@ Concepts:
 
 ## Exercise(s)
 
+Fortune cookie...
+
+See fortune.js for details:
+https://github.com/tiy-durham-fe-2015/wk2
+
 ### Calculator
 
 - Implement the calculator that I demonstrated.
@@ -77,4 +86,17 @@ Concepts:
 - Pretty up your converter form(s) and publish to GitHub pages
 - Make sure your alerts read like English:
   (e.g. if the user enters 34, alert "34 quarts is 136 cups")
+
+### Stretch-goal:
+
 - See if you can output the results to the screen, instead of alerting them.
+
+- Well, I'll show you a solution that will work:
+
+- Let's say you have some HTML that looks like this:
+
+    <p class="some-element"></p>
+
+- Then, in your JavaScript, you could do something like this:
+
+    document.querySelector('.some-element').textContent = "Some value";

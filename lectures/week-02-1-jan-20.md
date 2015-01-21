@@ -45,7 +45,7 @@ remain.
   - When the mouse hovers over this, the background color should transition slowly
   to another color
 - If you're here, you can go ahead and update your login form to have icons:
-  - Use an icon font  http://app.fontastic.me/
+  - Use an icon font: http://app.fontastic.me/
 
 ## Assignment
 
