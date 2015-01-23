@@ -21,16 +21,16 @@
 * Debugging
 * Types
 * Functions
-* DOM
-* Events
-* Objects (basic)
 * Math
 * Arrays
-* Exceptions
-* Testing (qUnit)
 
 ## Week 3:
 
+* DOM
+* Events
+* Objects (basic)
+* Exceptions
+* Testing (qUnit)
 * Templates
 * Regex
 * Libraries (moment, lodash, jQuery)
@@ -39,14 +39,17 @@
 
 ## Week 4:
 
+* Templates
+* Libraries (moment, lodash, jQuery)
 * XSS
 * AJAX
-* Advanced debugging
 * JSON, REST, JSONP
 * Intro to MVC
 * Routing
 
 ## Week 5:
+
+- Reshare??
 
 * Caching
 * Minification

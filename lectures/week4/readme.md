@@ -1,22 +1,7 @@
-# Week 3, Day 2
+- Read this: http://learnxinyminutes.com/docs/javascript/
 
-## Topics
-
-- Review
-- DOM: querySelector, querySelectorAll, classList
-- Events: addEventListener, removeEventListener
-  - See MDN for a full list of available events:
-  - https://developer.mozilla.org/en-US/docs/Web/Events
-
-## Exercises
-
-### Flyout Menu
-
-- Create a dropdown menu like this one:
-https://dribbble.com/shots/850410-Dropdown-Menu-UI?list=searches&tag=dropdown_menu&offset=0
-- It should be hidden by default
-- When you click the "Admin Settings" button, the menu should show
-- When you click the menu, the button, or the page, the menu should hide
+Week 4: ... Memory game? jQuery and template
+Hash changed for routing
 
 ### Modal
 
@@ -25,10 +10,6 @@ https://dribbble.com/shots/850410-Dropdown-Menu-UI?list=searches&tag=dropdown_me
 - When you click the button, show a modal
 - When you click the greyed out background, hide the modal
 - When you click the [X] close button, hide the modal
-
-## Assignment
-
-- Read this: https://github.com/airbnb/javascript
 
 ### Textarea With Max-length
 

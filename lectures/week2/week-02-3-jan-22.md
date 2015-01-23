@@ -2,6 +2,21 @@
 
 Question: OK, calculators are boring. How do I do something really interactive?
 
+## Topics required for homework
+
+- Array
+- Array.length
+- toLowerCase
+- string.split
+- loops
+- Array.join
+- ++/--
+- string[0]
+- array set: arr[0] = val;
+-
+
+  document.querySelector('.previous-guesses').textContent += guess + ' ';
+
 ## Topics
 
 - Arrays
