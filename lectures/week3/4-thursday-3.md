@@ -17,14 +17,31 @@ some review and catchup!
   - Thinking like a programmer
   - Object.keys
   - Image preview (using file upload)
+  - Regex?
+  - Might want to change git's default editor:
+    git config --global core.editor "atom --wait"
 
 ## Exercise
 
 - Get some of the unit tests (from the assignment) passing
 
+
 ## Assignment
 
-- Read this: https://github.com/airbnb/javascript
+### Reading
+
+I never discussed these in class, because I didn't think we'd have the time,
+and I personally find them marginally useful, however, you *will* see these
+in production and in the real world. So spend 15-30 mins reading/playing
+with them:
+
+Read about/play with while loops:
+http://www.w3schools.com/js/js_loop_while.asp
+
+Read about/play with switches:
+http://www.w3schools.com/js/js_switch.asp
+
+### Work
 
 - Implement this bad boy:
 
