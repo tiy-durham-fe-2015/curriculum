@@ -1,5 +1,7 @@
 # Week 3 - Monday
 
+* Mention CSS huddle and off-topic huddle
+
 ## Topics
 
 Today, we're going to learn about objects, and a few odds and ends.
