@@ -1,6 +1,7 @@
 # Week 3 - Monday
 
 * Mention CSS huddle and off-topic huddle
+* Prototypal inheritance
 
 ## Topics
 
@@ -31,11 +32,6 @@ Today, we're going to learn about objects, and a few odds and ends.
   - Constructor methods w/ specs
 
 - Excercises:
-  - Create a user object
-  - Create a groups object
-  - Create a management object
-    - Find all users in a group
-    - Find all groups a user belongs to
 
 - Lecture 2: Misc
   - && and ||
