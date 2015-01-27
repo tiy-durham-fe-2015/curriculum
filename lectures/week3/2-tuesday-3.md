@@ -57,7 +57,7 @@ Today, we're going to talk about the DOM. Wut wut!
     - window.onbeforeunload
     - onkeydown
     - onkeyup
-    - onkeypress (representing typing)
+    - onkeypress (representing typing), String.fromCharCode
     - onfocus
     - onblur
 
