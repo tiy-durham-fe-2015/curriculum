@@ -92,6 +92,8 @@ https://developer.mozilla.org/en-US/docs/Web/API/Node
 
 ## Assignment
 
+Push this repo to a GitHub project named "widgets".
+
 - Finish your dropdown menu.
 
 If you've finished the dropdown, then do a few of these:
