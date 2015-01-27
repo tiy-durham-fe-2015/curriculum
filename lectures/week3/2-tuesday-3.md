@@ -94,12 +94,17 @@ https://developer.mozilla.org/en-US/docs/Web/API/Node
 
 - Finish your dropdown menu.
 
+If you've finished the dropdown, then do a few of these:
+
+https://github.com/tiy-durham-fe-2015/curriculum/tree/master/assignments/js-widgets
+
+
+### Hard Mode!!!
+
+We didn't cover these concepts in class today!!
+
 - Do the hexclock assignment:
 
 https://github.com/tiy-durham-fe-2015/curriculum/tree/master/assignments/hexclock
 
-### Hard Mode
 
-If you've finished the hexclock really fast, then do a few of these:
-
-https://github.com/tiy-durham-fe-2015/curriculum/tree/master/assignments/js-widgets
