@@ -46,6 +46,25 @@ Today, we're going to talk about the DOM. Wut wut!
     - addEventListener
     - removeEventListener
     - (attachEvent in older versions of IE)
+    - window.onload
+    - onclick
+    - ondblclick
+    - onmousedown
+    - onmouseup
+    - onmouseover
+    - onmouseout
+    - onchange
+    - window.onbeforeunload
+    - onkeydown
+    - onkeyup
+    - onkeypress (representing typing)
+    - onfocus
+    - onblur
+
+A full list can be found here:
+http://www.w3schools.com/jsref/dom_obj_event.asp
+
+You're most interested in key and mouse events... And beware of old browsers!
 
 - Exercise
 
