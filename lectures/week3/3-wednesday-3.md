@@ -35,6 +35,26 @@ Lecture 2:
 
 ### Reading
 
+First, use Google to look up these array methods: (e.g. search for "mdn array sort" and read about that method) 
+
+- join
+- push (append value)
+- pop (remove last)
+- reverse
+- shift (remove first)
+- unshift (prepend value)
+- sort
+- splice (remove a chunk of an array, and optionally bulk-insert)
+- concat
+- slice (extracts a sub-array, given no params, produces a copy)
+- indexOf
+- lastIndexOf
+- forEach
+- every
+- some
+- filter
+- map
+
 - Read this: https://github.com/airbnb/javascript
 
 ### Work
