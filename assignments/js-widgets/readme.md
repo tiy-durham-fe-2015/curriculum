@@ -57,3 +57,21 @@ http://amsul.ca/pickadate.js/
 - Edit elements by double-clicking them
 - [Hard] use the HTML5 file API to allow users to select images from their
 hard drive and preview them
+
+### Slide In Side Menu
+
+Go to squarespace and click their nifty menu icon:
+
+http://squarespace.com/
+
+See how the menu slides in? Nifty, eh?
+
+Make it so.
+
+### Color Slider
+
+Well, why write it totally from scratch?
+
+http://refreshless.com/nouislider/examples/
+
+Go there, see something cool, and make it yoself!
