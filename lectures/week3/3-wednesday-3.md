@@ -6,6 +6,10 @@ Today, we're going to talk about exceptions... and review objects and the DOM...
 
 ... And maybe get into a little Gulp??
 
+The countdown project has begun... find it here:
+
+https://github.com/tiy-durham-fe-2015/countdown
+
 ## Agenda
 
 - Homework review
