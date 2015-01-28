@@ -14,6 +14,7 @@ Lecture 1: Exceptions & misc
   - Exceptions
   - Scope/closures
   - setTimeout, setInterval
+  - Dates
   - ternary: isTrue ? 'Yes' : 'No';
   - short-circuiting
     - var isMyShirtRed = false;
