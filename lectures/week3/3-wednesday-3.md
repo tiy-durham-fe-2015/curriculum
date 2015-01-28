@@ -28,33 +28,26 @@ Lecture 2: Gulp
 
 Create a useful user object, given the following requirements:
 
-- A user has a first name, last name, email, and roles
-- Roles are just strings, such as 'admin', or 'user'
-- User should go into a file called user.js
+- A user has a first name, last name, email, phone
 - User constructor should take a spec with the following properties
   - firstName: required
   - lastName: required
   - email: required
-  - roles: optional array of strings
+  - phone: optional
 - User should have the following properties:
   - firstName
   - lastName
   - email
+  - phone
 - If the User is passed an invalid spec
   - Throw an exception indicating which property is invalid
   - e.g.
-
     throw {
       message: 'First name is required',
       field: 'firstName'
     }
 - User should have the following methods:
   - fullName() - returns the first and last name as a single string value
-  - isInRole(roleName) - returns true if the user has the specified role
-  - addRole(roleName) - adds the specified role to the user
-  - removeRole(roleName) - removes the specified role from the user
-- addRole should throw an exception if the specified role is not valid
-  (Let's say valid roles are 'admin' and 'user')
 
 ## Assignment
 
@@ -65,6 +58,8 @@ Create a useful user object, given the following requirements:
 ### Work
 
 - Finish your hexclock, if you haven't already!
+
+https://github.com/tiy-durham-fe-2015/curriculum/tree/master/assignments/hexclock
 
 - Choose a couple more exercises found here:
 
