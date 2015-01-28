@@ -2,7 +2,9 @@
 
 ## Topics
 
-Today, we're going to talk about exceptions... and Gulp!
+Today, we're going to talk about exceptions... and review objects and the DOM...
+
+... And maybe get into a little Gulp??
 
 ## Agenda
 
@@ -11,6 +13,7 @@ Today, we're going to talk about exceptions... and Gulp!
 Lecture 1: Exceptions & misc
   - Exceptions
   - Scope/closures
+  - setTimeout, setInterval
   - ternary: isTrue ? 'Yes' : 'No';
   - short-circuiting
     - var isMyShirtRed = false;
