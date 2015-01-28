@@ -46,6 +46,25 @@ Today, we're going to talk about the DOM. Wut wut!
     - addEventListener
     - removeEventListener
     - (attachEvent in older versions of IE)
+    - window.onload
+    - onclick
+    - ondblclick
+    - onmousedown
+    - onmouseup
+    - onmouseover
+    - onmouseout
+    - onchange
+    - window.onbeforeunload
+    - onkeydown
+    - onkeyup
+    - onkeypress (representing typing), String.fromCharCode
+    - onfocus
+    - onblur
+
+A full list can be found here:
+http://www.w3schools.com/jsref/dom_obj_event.asp
+
+You're most interested in key and mouse events... And beware of old browsers!
 
 - Exercise
 
@@ -73,14 +92,21 @@ https://developer.mozilla.org/en-US/docs/Web/API/Node
 
 ## Assignment
 
+Push this repo to a GitHub project named "widgets".
+
 - Finish your dropdown menu.
+
+If you've finished the dropdown, then do a few of these:
+
+https://github.com/tiy-durham-fe-2015/curriculum/tree/master/assignments/js-widgets
+
+
+### Hard Mode!!!
+
+We didn't cover these concepts in class today!!
 
 - Do the hexclock assignment:
 
 https://github.com/tiy-durham-fe-2015/curriculum/tree/master/assignments/hexclock
 
-### Hard Mode
 
-If you've finished the hexclock really fast, then do a few of these:
-
-https://github.com/tiy-durham-fe-2015/curriculum/tree/master/assignments/js-widgets
