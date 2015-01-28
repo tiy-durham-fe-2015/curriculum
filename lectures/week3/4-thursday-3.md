@@ -1,4 +1,4 @@
-# Week 3 - Wednesday
+# Week 3 - Thursday
 
 ## Topics
 
@@ -9,6 +9,10 @@ some review and catchup!
 
 - Lecture 1: Testing
   - Introduce qUnit
+  - GULP
+  - Minification
+  - Cache-busting
+  - Automated testing
 
 - Exercise
 
