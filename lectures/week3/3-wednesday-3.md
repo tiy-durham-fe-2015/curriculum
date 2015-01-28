@@ -23,10 +23,9 @@ Lecture 1: Exceptions & misc
 
 Excercise:
 
-Lecture 2: Gulp
-  - Minification
-  - Cache-busting
-  - Automated testing
+Lecture 2:
+  - Build something nifty
+  - (Re)introduce gulp?
 
 ## Exercise
 
