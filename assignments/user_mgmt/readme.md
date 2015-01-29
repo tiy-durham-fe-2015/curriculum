@@ -29,29 +29,7 @@ After completing this assignment, you should be able to effectively...
 ### Make a Fork of The user_mgmt Starter Project
 
 The project can be found here:
-[User Mgmt](https://github.com/tiy-durham-fe-2015/user_mgmt)
-
-Clone your fork to your laptop
-
-- cd user_mgmt
-- npm install
-
-You may get an error when running npm install. If so, try this:
-
-- echo prefix = ~/.node >> ~/.npmrc
-- Atom ~/.bashrc
-- In Atom, add the following line to your .bashrc file:
-	- export PATH="$PATH:$HOME/.node/bin"
-- Go back to the terminal and run:
-  - . ~/.bashrc
-
-### Run the Project
-
-- gulp test
-- gulp watchTest
-
-The tests are currently failing. It's your job to get them to pass (without changing any of the test/* files).
-
+[user_mgmt](https://github.com/tiy-durham-fe-2015/user_mgmt_gulpless):
 
 ### Deliverables
 
@@ -60,71 +38,58 @@ The tests are currently failing. It's your job to get them to pass (without chan
 * All tests should be passing
 * A UI that allows you to dynamically add users to a list
 
-Send the link to your repository to your instructor
-
 ### Requirements
 
 #### Implement a User Class
 
-/src/js/user.js
+It should be defined in js/user.js
 
-- A user has a first name, last name, email, and roles
-- Roles are just strings, such as 'admin', or 'user'
-- User should go into a file called user.js
+- A user has three properties:
+  - firstName
+  - lastName
+  - email
 - User constructor should take a spec with the following properties
   - firstName: required
   - lastName: required
   - email: required
-  - roles: optional array of strings
-- User should have the following properties:
-  - firstName
-  - lastName
-  - email
 - If the User is passed an invalid spec
   - Throw an exception indicating which property is invalid
-  - e.g. throw { err: 'User: firstName is required' }
+  - e.g. throw { message: 'firstName is required', field: 'firstName' }
 - User should have the following methods:
   - fullName() - returns the first and last name as a single string value
   - equal(otherUser) - returns true if the user's email matches otherUser's email
-  - isInRole(roleName) - returns true if the user has the specified role
-  - addRole(roleName) - adds the specified role to the user
-  - removeRole(roleName) - removes the specified role from the user
 
 #### Implement an ObjectStore Class
 
-/src/js/object-store.js
+It should be defined in js/object-store.js
 
 - ObjectStore has the following methods:
+  - exists(obj) - returns true if there are any objects in the store whose .equal method matches obj
+    - HINT: You'll probably want to use the Array object's some method to do this
   - add(obj) - adds an object to the store
-    - if there is already an object in the store whose .equal method matches obj, don't add obj
+    - if obj already exists in the store, the add method should do nothing
   - remove(obj) - removes any objects whose .equal method matches obj
   - query() - returns an array containing all objects in the store
-  - exists(obj) - returns true if there are any objects in the store whose .equal method matches obj
-
-#### Implement a UserStore Class
-
-/src/js/user-store.js
-
-- UserStore extends ObjectStore
-- UserStore has all of ObjectStore's methods, as well as the following methods:
-  - queryByRole(roleName) - returns an array of all users that are in a given role
-  - haveSameDomain() - returns true if all users in the store have the same email domain
-    - e.g. if all users' emails end in '@gmail.com', this would return true
 
 ## Normal Mode
 
-Get all unit tests to pass. To run tests, go to your terminal:
+Get all unit tests to pass.
 
-- cd to the root of your project
-- run gulp test
+First, open test/user-test.html in your browser.
 
-Use your User and UserStore classes to build a website:
+Then, implement js/user.js such that the tests in test/user-test.html passes.
+
+Next, open test/object-store-test.html in your browser.
+
+Then, implement js/object-store.js such that the tests in test/object-store-test.html passes.
+
+Then, use your User and ObjectStore classes to build a website:
 
 - Create a form with first name, last name, and email fields
 - When the form is submitted,
   - Create a new user object with the field values
-  - Add that user to the UserStore
-  - Show all users in the UserStore
+  - Add that user to the ObjectStore
+  - Show all users in the ObjectStore
 
 ![Add user screen](https://github.com/tiy-durham-fe-2015/curriculum/raw/master/img/week2-add-user.gif)
 

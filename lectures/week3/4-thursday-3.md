@@ -1,4 +1,4 @@
-# Week 3 - Wednesday
+# Week 3 - Thursday
 
 ## Topics
 
@@ -7,17 +7,22 @@ some review and catchup!
 
 ## Agenda
 
+- Expecations moving forward...
+  - I expect a repo
+  - I expect a gh-pages branch
+  - I expect an index.html file
+  - If it's not working, that's OK. I want to see something and be able to review everyone's code.
+
 - Lecture 1: Testing
+  - What is testing?
+  - Why do it?
   - Introduce qUnit
+  - Write tests for the countdown project
 
 - Exercise
 
 - Lecture 2:
-  - The week in review
-  - Thinking like a programmer
-  - Object.keys
-  - Image preview (using file upload)
-  - Regex?
+  - Week in review
   - Might want to change git's default editor:
     git config --global core.editor "atom --wait"
 
@@ -25,6 +30,7 @@ some review and catchup!
 
 - Get some of the unit tests (from the assignment) passing
 
+https://github.com/tiy-durham-fe-2015/curriculum/tree/master/assignments/user_mgmt
 
 ## Assignment
 
@@ -39,6 +45,6 @@ http://codular.com/regex
 
 ### Work
 
-- Implement this bad boy:
+- Implement this super sweet project:
 
 https://github.com/tiy-durham-fe-2015/curriculum/tree/master/assignments/user_mgmt

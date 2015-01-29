@@ -2,51 +2,61 @@
 
 None of these are prerequisites for the IronYard's FE course, but having a cursory knowledge of these things should prove useful.
 
-## Learn HTML
+## Learn HTML and CSS
 
-There are two ways to start, and which one is "right" depends on how you learn.
+[Here's](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_1?ie=UTF8&qid=1422485062&sr=8-1&keywords=html+and+css) a book that many people highly reccommend on the subject. Give it a go, if books are your thing.
 
-If you like to read a bit first, and then tinker, I'd start here:
-https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction
+Be really familiar with when you'd use:
 
-If you like to tinker first, and then read, I'd start at Codepen. But first a warning! Codepen HTML snippets are not full HTML documents. Codepen generates the HTML document based on what you type. You are only typing the HTML body content, which is a really good place to start.
+position: fixed
+position: relative
+position: absolute
+margin
+padding
+border
+background
+color
 
-http://codepen.io/anon/pen/YPPLMg
+There are lots of great resources for learning CSS/HTML.
 
-OK. So, what do you type in the Codepen window? Have a look at the HTML elements listed here:
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+Here's one:
+http://www.w3schools.com/css/
 
-Try typing them into the codepen window and seeing what happens.
+I personally prefer just reading about it on MDN:
+https://developer.mozilla.org/en-US/docs/Web/CSS/background
 
-If you're confused about an element, Google about it, and keep tinkering.
+And tinkering with it here:
+http://codepen.io/pen/
 
-Here's a more in-depth set of resources:
-https://developer.mozilla.org/en-US/docs/Web/Guide/HTML
+Take a stab at laying out a real website using HTML and CSS. Here's one, if you don't want to find your own: https://www.mint.com/
 
+Try to build that yourself with CSS and HTML. The further you get, the easier your first week will be!
 
-## Learn Basic CSS
+## Next, get familiar with JavaScript
 
-There are lots of CSS tutorials out there. They'll probably teach you pretty bad practices, so I'd recommend sticking to the basics.
+Definitely read this. I'd suggest reading it cover-to-cover, but definitely get through the first 5-6 chapters:
+http://eloquentjavascript.net/
 
-Here is a *good* resource:
-https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started/What_is_CSS
+And then do some CodeCademy JavaScript exercises. The more familiarity with JS you have, the better!
 
-MDN is generally about as good a resource as you can find online (for free, anyway).
+Read some MDN articles on it:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 
-Play around with CSS here:
-http://codepen.io/anon/pen/RNNyzz
+... and play with it here:
 
-## Copy Someone Else's Work...
+http://jsbin.com/?html,js,output
 
-If you've gotten this far, I'm impressed.
+## Set up your Mac:
 
-Now, I'm not saying plagarize, but if you practice your skills by implementing someone elses' design, you'll be doing something very similar to real-world FE work.  
+Install git:
+https://help.github.com/articles/set-up-git/
 
-So, it's time to apply what you've learned. Find a cool website and try implementing its layout on your own.
+And learn about git. (GitHub has some great tutorials on it.)
 
-Here's a great design to try:
+Install Node:
+http://nodejs.org/download/
 
-http://academy.smashingboxes.com/
+And make sure that when you type npm in the terminal, you don't get a big error screen!
 
 ## Learn a Bit About Fonts
 
@@ -74,55 +84,4 @@ Here are some books. These aren't technical, so probably won't help you immediat
 [Any of Edward Tufte's books](http://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118/ref=sr_1_2?ie=UTF8&qid=1416519965&sr=8-2&keywords=edward+tufte)
 
 [The Design of Everyday Things](http://www.amazon.com/Design-Everyday-Things-Revised-Expanded-ebook/dp/B00E257T6C/ref=sr_1_1?ie=UTF8&qid=1416520014&sr=8-1&keywords=the+design+of+everyday+things)
-
-## Learn JavaScript
-
-Hey, surprise! I'm linking to another MDN article:
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
-
-In this case, you could use codepen, but I recommend just pulling up your Chrome's console (Ctrl+Shift+J on Windows, Cmd+Opt+J on Mac). You can type simple JavaScript expressions right into that, and see what happens.
-
-If you get through this tutorial, you're off to a great start.
-
-
-## Other Tutorials
-
-W3Schools also has an introduction to HTML. It's not super slick, and is sometimes dated. But it might prove useful to people who are just starting out.
-http://www.w3schools.com/html/default.asp
-
-Here's their CSS tutorial:
-http://www.w3schools.com/css/default.asp
-
-Finally, here's their JavaScript resource:
-http://www.w3schools.com/js/default.asp
-
-
-## Online Technical Resources
-
-A good online mag w/ design and UI-related technical articles:
-http://alistapart.com/
-
-Super handy reference for all things HTML/CSS/JavaScript:
-https://developer.mozilla.org/en-US/
-
-
-## Great General Resources From the Tech World
-
-Joel On Software:
-http://www.joelonsoftware.com/
-
-Tech news:
-https://news.ycombinator.com
-
-Basecamp blog:
-https://signalvnoise.com/
-
-
-## Design Inspiration
-
-https://dribbble.com/
-
-http://www.awwwards.com/
-
-http://psddd.co/
 
