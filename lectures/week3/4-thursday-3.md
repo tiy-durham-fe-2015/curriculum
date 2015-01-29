@@ -30,16 +30,12 @@ some review and catchup!
 
 ### Reading
 
-I never discussed these in class, because I didn't think we'd have the time,
-and I personally find them marginally useful, however, you *will* see these
-in production and in the real world. So spend 15-30 mins reading/playing
-with them:
+Next week, we will be talking about regular expressions. I promise, you will
+be in a world of pain if you haven't read about them before that!!!
 
-Read about/play with while loops:
-http://www.w3schools.com/js/js_loop_while.asp
+So read this:
 
-Read about/play with switches:
-http://www.w3schools.com/js/js_switch.asp
+http://codular.com/regex
 
 ### Work
 
