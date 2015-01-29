@@ -42,20 +42,16 @@ The project can be found here:
 
 #### Implement a User Class
 
-It should be defined here:
+It should be defined in js/user.js
 
-js/user.js
-
-- A user has a first name, last name, and email
-- User should go into a file called user.js
+- A user has three properties:
+  - firstName
+  - lastName
+  - email
 - User constructor should take a spec with the following properties
   - firstName: required
   - lastName: required
   - email: required
-- User should have the following properties:
-  - firstName
-  - lastName
-  - email
 - If the User is passed an invalid spec
   - Throw an exception indicating which property is invalid
   - e.g. throw { message: 'firstName is required', field: 'firstName' }
@@ -65,20 +61,29 @@ js/user.js
 
 #### Implement an ObjectStore Class
 
-/src/js/object-store.js
+It should be defined in js/object-store.js
 
 - ObjectStore has the following methods:
+  - exists(obj) - returns true if there are any objects in the store whose .equal method matches obj
+    - HINT: You'll probably want to use the Array object's some method to do this
   - add(obj) - adds an object to the store
-    - if there is already an object in the store whose .equal method matches obj, don't add obj
+    - if obj already exists in the store, the add method should do nothing
   - remove(obj) - removes any objects whose .equal method matches obj
   - query() - returns an array containing all objects in the store
-  - exists(obj) - returns true if there are any objects in the store whose .equal method matches obj
 
 ## Normal Mode
 
-Get all unit tests to pass. To run tests, open the various test HTML files in the browser.
+Get all unit tests to pass.
 
-Use your User and ObjectStore classes to build a website:
+First, open test/user-test.html in your browser.
+
+Then, implement js/user.js such that the tests in test/user-test.html passes.
+
+Next, open test/object-store-test.html in your browser.
+
+Then, implement js/object-store.js such that the tests in test/object-store-test.html passes.
+
+Then, use your User and ObjectStore classes to build a website:
 
 - Create a form with first name, last name, and email fields
 - When the form is submitted,
