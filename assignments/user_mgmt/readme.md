@@ -78,13 +78,13 @@ js/user.js
 
 Get all unit tests to pass. To run tests, open the various test HTML files in the browser.
 
-Use your User and UserStore classes to build a website:
+Use your User and ObjectStore classes to build a website:
 
 - Create a form with first name, last name, and email fields
 - When the form is submitted,
   - Create a new user object with the field values
-  - Add that user to the UserStore
-  - Show all users in the UserStore
+  - Add that user to the ObjectStore
+  - Show all users in the ObjectStore
 
 ![Add user screen](https://github.com/tiy-durham-fe-2015/curriculum/raw/master/img/week2-add-user.gif)
 
