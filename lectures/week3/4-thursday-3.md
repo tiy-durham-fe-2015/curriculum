@@ -7,7 +7,7 @@ some review and catchup!
 
 ## Agenda
 
-- Expecations moving forward...
+- Expectations moving forward...
   - I expect a repo
   - I expect a gh-pages branch
   - I expect an index.html file
