@@ -1,4 +1,4 @@
-# What to know
+# JavaScript cheat sheet/quiz
 
 There are tons and tons of functions and objects! Where does one
 begin? Well, lucky you. I compiled a list of the most useful things you can know.
