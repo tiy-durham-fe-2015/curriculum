@@ -57,19 +57,19 @@ Attribute manipulation:
 
 Advanced content manipulation:
 
-- $('input[required]').after('<span class="required-label">*</span>')
-- $('.user-list').append('<li>Jane Doe</li>')
-- $('<li>Jane Doe</li>').appendTo('.user-list')
-- $('.user-list').prepend('<li>Jane Doe</li>')
-- $('<li>Jane Doe</li>').prependTo('.user-list')
-- $('.user-list').before('<h2>User List:</h2>')
-- $('<button>Are you sure?</button>').insertAfter('.delete-action')
-- $('<button>Are you sure?</button>').insertBefore('.delete-action')
-- $('.main-panel').replaceWith('<div>Main panel is gone!!</div>')
-- $('.item').wrap('<div class="container"></div>')
-- $('.item').unwrap()
-- $('.user-list').clone()
-- $('.current-item').remove()
+- `$('input[required]').after('<span class="required-label">*</span>')
+- `$('.user-list').append('<li>Jane Doe</li>')
+- `$('<li>Jane Doe</li>').appendTo('.user-list')
+- `$('.user-list').prepend('<li>Jane Doe</li>')
+- `$('<li>Jane Doe</li>').prependTo('.user-list')
+- `$('.user-list').before('<h2>User List:</h2>')
+- `$('<button>Are you sure?</button>').insertAfter('.delete-action')
+- `$('<button>Are you sure?</button>').insertBefore('.delete-action')
+- `$('.main-panel').replaceWith('<div>Main panel is gone!!</div>')
+- `$('.item').wrap('<div class="container"></div>')
+- `$('.item').unwrap()
+- `$('.user-list').clone()
+- `$('.current-item').remove()
 
 See here for more detail:
 
