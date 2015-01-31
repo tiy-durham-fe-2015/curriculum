@@ -37,6 +37,10 @@ Think like a programmer:
 
 - What is the recipe/play-by-play for doing tonight's assignment?
 
+- Slide left/right demo:
+
+http://jsbin.com/lejohotuye/12/edit?html,js,output
+
 ### Assignment:
 
 - functional mockup
