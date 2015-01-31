@@ -39,37 +39,37 @@ To find out, go here:
 
 Basic content manipulation:
 
-- $('.user-list').html('<li>Joe Shmo</li>')
-- $('.primary-action').text('Click me!')
+    $('.user-list').html('<li>Joe Shmo</li>');
+    $('.primary-action').text('Click me!');
 
 Class manipulation:
 
-- $('.tab').removeClass('selected-tab')
-- $('.tab').addClass('selected-tab')
-- $('.tab').hasClass('selected-tab')
-- $('.menu').toggleClass('.menu-visible');
+    $('.tab').removeClass('selected-tab');
+    $('.tab').addClass('selected-tab');
+    $('.tab').hasClass('selected-tab');
+    $('.menu').toggleClass('.menu-visible');
 
 Attribute manipulation:
 
-- $('button').attr('disabled')
-- $('button').attr('disbled', 'disabled')
-- $('button').removeAttr('disabled')
+    $('button').attr('disabled');
+    $('button').attr('disbled', 'disabled');
+    $('button').removeAttr('disabled');
 
 Advanced content manipulation:
 
-- $('input[required]').after('<span class="required-label">*</span>')
-- $('.user-list').append('<li>Jane Doe</li>')
-- $('<li>Jane Doe</li>').appendTo('.user-list')
-- $('.user-list').prepend('<li>Jane Doe</li>')
-- $('<li>Jane Doe</li>').prependTo('.user-list')
-- $('.user-list').before('<h2>User List:</h2>')
-- $('<button>Are you sure?</button>').insertAfter('.delete-action')
-- $('<button>Are you sure?</button>').insertBefore('.delete-action')
-- $('.main-panel').replaceWith('<div>Main panel is gone!!</div>')
-- $('.item').wrap('<div class="container"></div>')
-- $('.item').unwrap()
-- $('.user-list').clone()
-- $('.current-item').remove()
+    $('input[required]').after('<span class="required-label">*</span>');
+    $('.user-list').append('<li>Jane Doe</li>');
+    $('<li>Jane Doe</li>').appendTo('.user-list');
+    $('.user-list').prepend('<li>Jane Doe</li>');
+    $('<li>Jane Doe</li>').prependTo('.user-list');
+    $('.user-list').before('<h2>User List:</h2>');
+    $('<button>Are you sure?</button>').insertAfter('.delete-action');
+    $('<button>Are you sure?</button>').insertBefore('.delete-action');
+    $('.main-panel').replaceWith('<div>Main panel is gone!!</div>');
+    $('.item').wrap('<div class="container"></div>');
+    $('.item').unwrap();
+    $('.user-list').clone();
+    $('.current-item').remove();
 
 See here for more detail:
 
@@ -77,21 +77,21 @@ See here for more detail:
 
 ## Interactive element shtuffs
 
-- $('input[name=firstName]').val()
-- $('input').focus()
-- $('input').select()
-- $('form').submit()
+    $('input[name=firstName]').val();    
+    $('input').focus();
+    $('input').select();
+    $('form').submit();
 
 ## Element positioning/sizing
 
-- $('button').height()
-- $('button').outerHeight()
-- $('div').width()
-- $('div').outerWidth()
-- $('.item').offset().top
-- $('.item').position().top
-- $('.item').offset().left
-- $('.item').position().left
+    $('button').height();
+    $('button').outerHeight();
+    $('div').width();
+    $('div').outerWidth();
+    $('.item').offset().top;
+    $('.item').position().top;
+    $('.item').offset().left;
+    $('.item').position().left;
 
 ## Events
 
@@ -142,10 +142,10 @@ Note, that using these methods generally produces a slower site than
 using CSS to do the same things. CSS takes advantage of hardware
 acceleration.
 
-- $('.modal').fadeIn()
-- $('.modal').fadeOut()
-- $('.stuff').show();
-- $('button').hide();
+    $('.modal').fadeIn()
+    $('.modal').fadeOut()
+    $('.stuff').show();
+    $('button').hide();
 
 
 ## Selector context
