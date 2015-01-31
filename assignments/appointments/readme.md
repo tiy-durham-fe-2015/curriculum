@@ -58,6 +58,14 @@ nightmare modes.
 - search bar on list screen which filters appointments as you type
 - Modify list view items based on whether they occur today, this week, or
 further into the future
+  - If the appointment is today, display only the time
+    - e.g. 5:00 pm - Talk to Brad
+  - If the appointment is this week, but not today,
+    - Display: Mon, Tue, Wed, Thu, Fri, Sat, or Sun
+    - e.g. Tue 5:00 pm - Talk to Brad
+  - If the appointment is more than a week away,
+    - Display: date and time
+    - e.g. 2/23/15 5:00 pm - Talk to Brad
 
 ## Nightmare mode
 
