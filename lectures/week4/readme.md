@@ -190,5 +190,7 @@ Teach jQuery with this priority/order
 - Read this: http://learnxinyminutes.com/docs/javascript/
 
 ### TODO:
-- write up a jquery-intro.js file with comments
-- draw appointment project wireframes
+
+Mention how to run a basic server, if we don't manage to get to Gulp:
+
+    python -m SimpleHTTPServer 8000
