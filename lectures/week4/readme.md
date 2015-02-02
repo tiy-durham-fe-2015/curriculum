@@ -19,6 +19,8 @@ Interactive, single-page mockup
 - Review user_mgmt assignment (45 min)
 - Overview of week's project (45 min)
   - single page app
+  - mobile meta tag n' testing w/ Chrome
+  - Trello
 - Intro to jQuery (45 min)
   - What is jQuery?
   - What is a library?
