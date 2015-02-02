@@ -39,7 +39,7 @@ Think like a programmer:
 
 - Slide left/right demo:
 
-http://jsbin.com/lejohotuye/12/edit?html,js,output
+http://jsbin.com/hoyuqucoro/1/edit?js,output
 
 ### Assignment:
 
