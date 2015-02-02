@@ -65,7 +65,13 @@ Actually add/remove appointments!
 - Review (30 min)
 
 - Lodash templating (45 min)
-
+  - What is a template? 
+    - Kind of like a string with placeholders
+    - Template string + data = HTML
+  - What is lodash?
+    - Big, convenience library, w/ everything in the _ variable
+    - Has uuber fast templates
+  
 - Object modeling (45 min)
 
 - Getting form data (15 min)
