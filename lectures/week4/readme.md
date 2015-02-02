@@ -4,6 +4,10 @@ We'll be building this shweet thing:
 
 https://github.com/tiy-durham-fe-2015/curriculum/tree/master/assignments/appointments
 
+And here is my little hacky project that I showed in class:
+
+https://github.com/tiy-durham-fe-2015/wk4
+
 Game plan:
 
 Implement a little mobile appointment app.
