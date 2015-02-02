@@ -1,5 +1,9 @@
 # Week 4... Oh, yeah!!!
 
+We'll be building this shweet thing:
+
+https://github.com/tiy-durham-fe-2015/curriculum/tree/master/assignments/appointments
+
 Game plan:
 
 Implement a little mobile appointment app.
