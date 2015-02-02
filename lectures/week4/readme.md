@@ -62,19 +62,17 @@ Actually add/remove appointments!
 
 ### Plan
 
+- Review (30 min)
+
+- Lodash templating (45 min)
+
 - Object modeling (45 min)
 
-- Getting form data (30 min)
+- Getting form data (15 min)
   - $('input').val()
   - $('input').val('')
   - $('input').focus()
   - $('input').select()
-
-- Event handling with .on, (30 min)
-  - $('.container').on('click', '.child', func)
-  - $('.container').off('click', '.child', func)
-
-- Trello, if didn't cover on Monday (30 min)
 
 ### Exercise
 
