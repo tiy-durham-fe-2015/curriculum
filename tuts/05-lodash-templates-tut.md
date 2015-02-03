@@ -214,9 +214,9 @@ OOooh. Let's do that. I'll create a file called 'tpl.js' which will hold this
 code:
 
     // An object that will hold all of our templates.
-    var tpl = { };
+    var views = { };
 
-    // Initialize tpl with all of the templates from our
+    // Initialize views with all of the templates from the
     // script hack in our HTML
     (function () {
       // Get all scripts that are of type "text/html"
@@ -227,19 +227,20 @@ code:
 
         // Now, elem is the current <script type="text/html"> element.
         //
-        // Let's say that the tpl object has a new property whose name is the
-        // same as our script's id attribute.
+        // Add a property to our views object with the same name as the
+        // script's id attribute.
         //
         // So, if we had a <script id="foo" type="text/html">
         //
         // We'd expect to be able to do this:
-        // var html = tpl.foo({ name: 'James' });
+        // var html = views.foo({ name: 'James' });
         //
         // Where foo is the compiled template that was defined in the script
         // tag whose id was foo... Hmm...
-        tpl[elem.attr('id')] = _.template(elem.html(), { 'variable': 'm' });
+        views[elem.attr('id')] = _.template(elem.html(), { 'variable': 'm' });
       });
     })();
+
 
 Now, if we have an HTML file that looks like this:
 
@@ -256,7 +257,7 @@ Now, if we have an HTML file that looks like this:
 
 We could render the myTemplate template out into the #main div tag like this:
 
-    $('#main').html(tpl.myTemplate({ name: 'Jane Doe' }));
+    $('#main').html(views.myTemplate({ name: 'Jane Doe' }));
 
 Teh hotness.
 
@@ -272,7 +273,7 @@ Even cooler, we can now include templates within other templates:
      </script>
 
      <script type="text/html" id="myTemplate">
-        <%= tpl.header(m) %>
+        <%= views.header(m) %>
         <p>You are <%- m.description %>!</p>
      </script>
 
@@ -281,7 +282,7 @@ Even cooler, we can now include templates within other templates:
 
 Now, when we render myTemplate like this:
 
-    $('#main').html(tpl.myTemplate({ name: 'Joe', description: 'awesome' }));
+    $('#main').html(views.myTemplate({ name: 'Joe', description: 'awesome' }));
 
 The #main div will have the following inner HTML:
 
