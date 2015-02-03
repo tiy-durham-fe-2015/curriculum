@@ -10,11 +10,25 @@ looks like this:
 Yeah. Me, too. Fortunately, there's a thing called templating that makes this
 process much less painful.
 
-What if you were able to write code that looked like this:
+Here's the idea.
+
+A template is a string that has some placeholder text in it. A really basic
+example would look like this:
+
+    var template = 'Hey, NAME, how are you?';
+    var hiChris = template.replace('NAME', 'Chris');
+    var hiJane = template.replace('NAME', 'Jane');
+
+So, here, we are just using string replace. It's a really basic form of
+templating.  Templating is kind of like string replace, only more powerful.
+It is a way for you to define a string with placeholders in it, and bind it to
+data in order to produce a final, finished output.
+
+Here's an example of a real lodash template:
 
     <span><%- user.name %></span>
 
-And then it would magically turn into the proper HTML:
+Wouldn't it be cool to be able to use that template to produce this HTML:
 
     <span>Chris Davies</span>
 
@@ -22,8 +36,7 @@ That'd be nifties!
 
 Well, now you can! Huzzah!
 
-What I have just shown you is called a template. It basically is a string
-that has some placeholders in it. <%- user.name %> is a placeholder that will
+Here, <%- user.name %> is a placeholder that will 
 be replaced with the properly escaped value of the name property on the user
 object.
 
