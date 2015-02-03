@@ -88,6 +88,10 @@ Think like a programmer:
 
 ### Assignment:
 
+Read this:
+
+https://github.com/tiy-durham-fe-2015/curriculum/blob/master/tuts/05-lodash-templates-tut.md
+
 - ability to add appointments
 - see them in the list
 - appointment details
