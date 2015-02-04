@@ -45,6 +45,12 @@ I've also configured my shell to display which git branch I am in. I did that si
 
 https://github.com/jimeh/git-aware-prompt
 
+## Configuring git to use an editor other than vi
+
+I use Atom, but your mileage may vary:
+
+https://help.github.com/articles/associating-text-editors-with-git/
+
 ## What is git?
 
 If you don't understand what git is or what it is for, here is a basic introduction.

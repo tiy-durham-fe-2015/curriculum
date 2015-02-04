@@ -90,9 +90,13 @@ Think like a programmer:
 
 ### Assignment:
 
-Read this:
+Read this, if lodash is confusing you:
 
 https://github.com/tiy-durham-fe-2015/curriculum/blob/master/tuts/05-lodash-templates-tut.md
+
+GitHub flow (how to use git on group projects):
+
+https://guides.github.com/introduction/flow/index.html
 
 - ability to add appointments
 - see them in the list
