@@ -62,11 +62,17 @@ Actually add/remove appointments!
 
 ### Plan
 
-- Pass/fail criteria
-  - Code formatting
-  - gh-pages or published site!!!
-
 - Review (30 min)
+  - Pass/fail criteria
+
+- Object modeling (45 min)
+  - What are responsibilities?
+
+- Getting form data (15 min)
+  - $('input').val()
+  - $('input').val('')
+  - $('input').focus()
+  - $('input').select()
 
 - Lodash templating (45 min)
   - What is a template?
@@ -75,14 +81,6 @@ Actually add/remove appointments!
   - What is lodash?
     - Big, convenience library, w/ everything in the _ variable
     - Has uuber fast templates
-
-- Object modeling (45 min)
-
-- Getting form data (15 min)
-  - $('input').val()
-  - $('input').val('')
-  - $('input').focus()
-  - $('input').select()
 
 ### Exercise
 
@@ -109,17 +107,6 @@ Use AJAX to load weather info from a service
 
 ### Plan
 
-- AJAX 101 (45 min)
-  - What is a web API?
-  - GitHub API as example
-  - getJSON
-  - $.ajax ??? (stretch-goal)
-
-- Organizing your project (30 min)
-  - Use objects to access/manage APIs
-  - Reusable UI components
-  - Identifying and separating concerns
-
 - Local storage fancypants (45 min)
   - localStorage.setItem('key', 'value');
   - localStorage.getItem('key');
@@ -128,7 +115,15 @@ Use AJAX to load weather info from a service
   - JSON.stringify
   - JSON.parse
 
+- AJAX 101 (45 min)
+  - What is a web API?
+  - GitHub API as example
+  - getJSON
+  - $.ajax ??? (stretch-goal)
+
 - Weather map API
+  - You can find any weather API you want to use, but I'm going to suggest:
+    - http://openweathermap.org/
   - Current weather:
     - http://api.openweathermap.org/data/2.5/weather?q=Durham,nc
   - Forecast
@@ -141,6 +136,10 @@ Think like a programmer:
 - What is the recipe/play-by-play for doing tonight's assignment?
 
 ### Assignment
+
+NOTE: When dealing with dates/times, it's much easier to use this library:
+
+  http://momentjs.com/
 
 - on the appointment detail screen, show the weather
 for the place/time of appointment
