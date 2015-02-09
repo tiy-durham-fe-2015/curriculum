@@ -57,3 +57,7 @@ Would be more idiomatic if it looked like this:
     var app = {};
     
 (And note the semi-colon.)
+
+## Weird indentation and new lines
+
+I still saw lots of inconsistent indentation and newlines all over the place. Just a reminder that this almost always looks like bugs to experienced developers. Indentation and whitespace matter when trying to write readable code!
