@@ -152,24 +152,9 @@ not lost between sessions
 
 ## Thursday
 
-Use templates (handlebars or ejs or maybe Riot?)
+We built this in class:
 
-### Plan
-
-- Templating 101 (45 min)
-  - What are templates?
-  - Why do you need them?
-  - Basics of (handlebars, ejs, or Riot)
-
-- Templating 102 (30 mins)
-  - Using script tag hack to embed templates in HTML
-
-- Exercise (30 min)
-  - Modify your project to use a template to display the list
-
-- Templating 103 (45 mins)
-  - Using AJAX to load templates from server
-  - More advanced (handlebars, ejs, or Riot)
+https://github.com/tiy-durham-fe-2015/github-widget
 
 ### Exercise
 
@@ -179,8 +164,7 @@ Think like a programmer:
 
 ### Assignment
 
-- Reorg your code to use templates instead of building
-HTML manually in your JS files
+Keep plugging away at the assignment for the week!
 
 ## Friday
 
