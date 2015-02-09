@@ -55,13 +55,19 @@ You should prevent me from dragging the items outside of the bounds of the power
 
 ### Hard Mode
 
+Allow resize of element(s)
+
+Create a toolbar that allows me to add more elements to the page
+
+### Nightmare Mode
+
+Make the element(s) text or images instead of just placeholders
+
 When I click the text, show a dialog (or something) that lets me edit the text.
 
 When I click the image, show a dialog (or something) that lets me edit the image URL.
 
-Create a toolbar that allows me to add more text or images to the slide.
-
-### Nightmare Mode
+Allow rotating of element(s)
 
 Figure out how to enable users to resize elements (not just move them)
 
