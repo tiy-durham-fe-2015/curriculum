@@ -195,6 +195,8 @@ http://brm.io/matter-js
 Books
 http://eloquentjavascript.net/
 
+Visualizations on the web:
+http://chimera.labs.oreilly.com/books/1230000000345/index.html
 
 ### Git
 
