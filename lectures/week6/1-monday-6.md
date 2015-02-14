@@ -1,7 +1,13 @@
-
 Goals
 
 - Better understanding of AJAX and APIs
+
+## Teh planz
+
+- Takes 90 days to be good at something
+
+- Have Todd explain why data loaded from JSON needs to be reconstructed
+before use
 
 AJAX continued...
   - Promises
@@ -85,7 +91,6 @@ Next, call the listings API, and render the listings. You should show:
 - An element which, when clicked, shows the user who posted the listing
 
 This last bullet point should make use of the Etsy user profile API previously mentioned.
-
 
 ### Hard Mode
 

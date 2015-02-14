@@ -1,8 +1,10 @@
+# Tuesday, Week 6
 
+Understand MVC (at a high level)
 
-- Understand MVC (at a high level)
+Guest lecture from the inimitable Chance!
 
-
+### Topics
 
 - MVC
   - Model view controller
@@ -13,15 +15,19 @@
   - onhashchange
   - hash change vs pushstate
   - pattern matching and pulling data from URLs
-- Loading views via AJAX!!!
+- Loading views via AJAX, mebbe?
 
 ## Assignment
+
+Spend 20-30 minutes reading about Angular here:
+
+https://docs.angularjs.org/guide/introduction
 
 Continue working on your Etsy site.
 
 Change your "show user" button to be a link. E.g. something like:
 
-    <a href="#user/<%- item.user_id %>">Seller</a>
+    <a href="#users/<%- item.user_id %>">Seller</a>
 
 Use a hash-based router to enable navigation back and forth between
 "pages".
