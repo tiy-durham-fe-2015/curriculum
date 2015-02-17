@@ -1,13 +1,16 @@
 # Wednesday, Week 6
 
-- CSS
+- CSS & design
+  - Designing for personas
   - 1 + 1 = 3 line rule
   - Contrast
-  - Color schemes
+  - Color palettes
+    - http://paletton.com/
   - Few fonts (2, or at most 3 [e.g. if you need to represent code])
   - Using proper spacing to denote boundaries
   - Analysis of design(s)
     - https://www.mint.com/
+    - https://global.gotomeeting.com/?_ga=1.89090457.368014762.1424124523
     - https://account.unmatchedstyle.com/register/grok/
     - https://dribbble.com/shots/1933308-Project-Stats-Overview
     - https://dribbble.com/shots/1933193-Mobile-Dashboard
