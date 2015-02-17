@@ -2,7 +2,7 @@
 
 Understand MVC (at a high level)
 
-Guest lecture from the inimitable Chance!
+file:///Users/chris/Downloads/Routing.svg
 
 ### Topics
 
@@ -16,6 +16,7 @@ Guest lecture from the inimitable Chance!
   - hash change vs pushstate
   - pattern matching and pulling data from URLs
 - Quiz!
+- Walkthrough on architecting an app
 
 ## Quiz
 
