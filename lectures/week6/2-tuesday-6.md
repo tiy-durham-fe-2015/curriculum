@@ -47,8 +47,7 @@ which would be:
   'Fizz',
   13,
   14,
-  'FizzBuzz',
-  'Fizz'
+  'FizzBuzz'
 
 When you've finished your solution, create a GitHub gist
   https://gist.github.com/ and send me the link. I'll run your code through
