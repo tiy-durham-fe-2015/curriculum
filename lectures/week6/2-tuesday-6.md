@@ -15,13 +15,45 @@ Guest lecture from the inimitable Chance!
   - onhashchange
   - hash change vs pushstate
   - pattern matching and pulling data from URLs
-- Loading views via AJAX, mebbe?
+- Quiz!
+
+## Quiz
+
+Write a program that prints the numbers from 1 to 100.
+But for multiples of three print “Fizz” instead of the
+number and for the multiples of five print “Buzz”.
+For numbers which are multiples of both three and
+five print “FizzBuzz”."
+
+So this:
+
+fizzbuzz()
+
+Would return an array with 100 items, the first 16 of
+which would be:
+
+  1,
+  2,
+  'Fizz',
+  4,
+  'Buzz',
+  'Fizz',
+  7,
+  8,
+  'Fizz',
+  'Buzz',
+  11,
+  'Fizz',
+  13,
+  14,
+  'FizzBuzz',
+  'Fizz'
+
+When you've finished your solution, create a GitHub gist
+  https://gist.github.com/ and send me the link. I'll run your code through
+  my unit tests and see if it passes.
 
 ## Assignment
-
-Spend 20-30 minutes reading about Angular here:
-
-https://docs.angularjs.org/guide/introduction
 
 Continue working on your Etsy site.
 

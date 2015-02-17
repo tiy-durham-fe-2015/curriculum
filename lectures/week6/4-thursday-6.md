@@ -1,14 +1,10 @@
 # Thursday, Week 6
 
-Angular cont...
-
-Not sure what our pace will have been on Weds, so Thurs will be either review,
-or continuing to dive into Angular to get all of the bits and pieces that
-you'll need for your Memory game.
+Mason + Chris pair programming, project mgmt and collab
 
 ## Assignment
 
-Hola! Your mission is to write this using Angular:
+Hola! Your mission is to write this using jQuery and all your mad skillz:
 
 http://chrisdavies.github.io/memory/
 
@@ -22,12 +18,9 @@ Now, remember Minimum Viable Product.
 - Focus on getting the actual game to work first! Then focus on the next
 feature.
 
-### Gotchas
+### Routing
 
-I don't know if I'll remember to mention it in class, but Angular doesn't play
-nice with setTimeout. If you want to do setTimeout (e.g. to get the clock
-  working). Then, you need to look into using this:
-
-https://docs.angularjs.org/api/ng/service/$timeout
-
-I just saved you hours of headache. You're welcome. :)
+Use routing to enable users to share links to the "new game" screen, to the
+"hard game" screen and the "easy game" screen. The "win game" and "lose game"
+screens should not be accessible via routes, but only as the result of either
+winning or losing the game.
