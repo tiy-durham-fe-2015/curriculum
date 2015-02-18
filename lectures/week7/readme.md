@@ -9,6 +9,9 @@ Style guides:
 
 https://github.com/mgechev/angularjs-style-guide#controllers
 
+Coding challenges:
+
+http://coderbyte.com/CodingArea/Challenges/#easyChals
 
 ## Library vs Framework
 

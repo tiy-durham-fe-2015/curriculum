@@ -1,5 +1,6 @@
 # Wednesday, Week 6
 
+- Revisit promises
 - CSS & design
   - Designing for personas
   - 1 + 1 = 3 line rule
