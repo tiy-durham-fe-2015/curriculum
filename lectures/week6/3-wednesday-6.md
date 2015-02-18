@@ -1,15 +1,39 @@
 # Wednesday, Week 6
 
-- Revisit promises
+- Review: What are these & when do you use them?
+  - Model
+  - View
+  - Controller
+  - Routing
+  - Promises (may need to revisit)
+  - Walk through setting up the Etsy app & architecture
 - CSS & design
   - Designing for personas
-  - 1 + 1 = 3 line rule
-  - Contrast
-  - Color palettes
-    - http://paletton.com/
-  - Few fonts (2, or at most 3 [e.g. if you need to represent code])
-  - Using proper spacing to denote boundaries
-  - Analysis of design(s)
+    - Who is your product for?
+    - What motivates them / what do they need?
+    - What kind of design ethic do they like?
+    - What other brands do they gravitate to?
+    - How do those brands market/message themselves?
+    - What is their demographic info?
+    - What is their online behavior?
+      - What kind of search terms do they use?
+      - What websites do they frequent?
+    - What benefit does your product give them?
+    - You may (probably will have more than one persona)
+      - Pick your primary, if you have one, and focus on that first
+      - Try to target each persona
+    - Example:
+      - You've got a site that helps website admins visualize their web
+      traffic. If you were to do a persona analysis, you'd probably find
+      that there were 2 primary personas.
+      1. The admins who are trying to
+      manage the website and keep it up. Their primary goal/motivation would
+      be visualizing traffic patterns to detect latency/performance issues
+      so they can prevent the site from going down or performing sluggishly.
+      2. Business (CEOs, CTOs, and marketers) who want to see if traffic to
+      their site spikes after a marketing campaign, or maybe they want to
+      see which areas of the site are the most popular, etc.
+  - There's a difference between nice visuals and good usability
     - https://www.mint.com/
     - https://global.gotomeeting.com/?_ga=1.89090457.368014762.1424124523
     - https://account.unmatchedstyle.com/register/grok/
@@ -34,6 +58,10 @@ So.
     isPalindrome('hello'); // returns false
 
 ## Assignment
+
+Read about design personas:
+
+http://webdesign.tutsplus.com/articles/design-personas-injecting-personality-into-your-web-projects--webdesign-7430
 
 ### Unit test the palindrome problem
 
@@ -60,5 +88,8 @@ Unit test your toHex function.
 ### Etsy contd...
 
 If you have more you'd like to do on the Etsy project, please do!
+
+If you're up for a challenge, on the user's profile, add a link that takes
+you to a view of all of that user's listings.
 
 Try using an SCSS framework on the Etsy project (Neat + Refills, maybe?)
