@@ -1,12 +1,19 @@
 # Wednesday, Week 6
 
 - Review: What are these & when do you use them?
-  - Model
-  - View
-  - Controller
-  - Routing
-  - Promises (may need to revisit)
+  - Model - Data being used by your app (e.g. Appointment)
+  - View - HTML representation of data (e.g. Your lodash template(s))
+  - Controller - Middle man between view and model, exposes functionality to view
+  - Routing - Abillity to respond to changes in the URL and react as desired
+  - Promises - Is like a callback, except with more options (e.g. a fail and
+    success callback option)
+  - Closures - A function always having access to variables in its scope or
+  its parent's scope or its grandparent's scope, etc.
   - Walk through setting up the Etsy app & architecture
+- Unit testing
+  - Why unit testing is useful
+  - How to write unit tests (TDD style) using Jasmine
+  - Mocking out objects (keeping tests isolated)
 - CSS & design
   - Designing for personas
     - Who is your product for?
@@ -41,10 +48,6 @@
     - https://dribbble.com/shots/1933193-Mobile-Dashboard
     - https://dribbble.com/shots/1933399-Live-statistics-dashboard
     - https://logentries.com/
-- Unit testing
-  - Why unit testing is useful
-  - How to write unit tests (TDD style) using Jasmine
-  - Mocking out objects (keeping tests isolated)
 
 ## Quiz!
 
