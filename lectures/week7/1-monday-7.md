@@ -1,5 +1,26 @@
 # Monday, Week 7
 
+## Angular 101
+
+- Views (intro)
+- Controllers (intro)
+- data-binding
+- ng-controller
+- ng-cloak
+- ng-app
+- ng-repeat
+- filter: https://docs.angularjs.org/api/ng/filter/filter
+- ng-if
+- ng-show
+- ng-hide
+- ng-click
+- ng-submit
+- ng-model
+
+See week 7 intro 1 and 2:
+
+https://github.com/tiy-durham-fe-2015/wk7
+
 ### What is a framework?
 
 Nearly every complex front-end project will need routing, templating, AJAX,
@@ -29,6 +50,11 @@ tasks.
 Angular is a front-end framework. It's biggest specialty (in my opinion) is
 live data binding.
 
+To use Angular, you need to include Angular's scripts...
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular-route.min.js"></script>
+
 ### A note about events
 
 Events are handled by directives in Angular (more about those later). Basically,
@@ -45,11 +71,37 @@ Events have access to the event object like so:
 
 So now, in our doSomethingCool method, we could do something like:
 
-    function doSomethingCool(e) {
+    self.doSomethingCool = function (e) {
       e.preventDefault();
-    }
+    };
+
+## Coding Challenge
+
+Do this! I'd recommend signing up for coderbyte, so that you can actually
+submit your solution.
+
+http://coderbyte.com/CodingArea/Language.php?ct=First%20Factorial
+
+If you want to go ahead and do other challenges on coderbyte, feel free,
+but maybe skip the first 15, since we'll be doing those as our in-class
+challenges through the end of the cohort!
 
 ## Assignment
+
+### Come see me, if:
+
+If you don't know (or are shaky on) any of these, come see me sometime this
+week:
+
+- How to make a responsive website (e.g. meta + media)
+- How to make sure your site is accessible (to visually impaired people)
+- How to make sure you've got good contrast and a good color pallete
+- How to get the value of an input field using jQuery
+- How to modify HTML using jQuery
+- How to call an API using jQuery's $.ajax
+- What routing is, and why/when you should use it
+
+### Do this awesome thing:
 
 Acme Bike Co wants to have a sign (a tablet) at the front of their store that
 displays their current featured bikes along with the top accessories for each
@@ -85,6 +137,10 @@ You should be able to
 ### Hard mode
 
 - Ability to show the bikes in a pretty read-only view (e.g. without textboxes)
+- Show how many accessory combinations there are for each bike
+  - e.g. If BikeA has 3 accessories, and BikeB has 2 accessories, then
+    - BikeA - 8 possible combinations (including no accessories)
+    - BikeB - 4 possible combinations (including no accessories)
 - Local-storage persistence
 
 ### Nightmare mode
