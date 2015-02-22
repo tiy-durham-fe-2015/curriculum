@@ -88,18 +88,18 @@ challenges through the end of the cohort!
 
 ## Assignment
 
-### Come see me, if:
+### Fill out this quick knowledge assessment
 
-If you don't know (or are shaky on) any of these, come see me sometime this
-week:
+https://docs.google.com/forms/d/14iGxqc7M0xfjgmch9rDFGaQ3LQiyCJPLGtMtfKjElt0/viewform?usp=send_form
 
-- How to make a responsive website (e.g. meta + media)
-- How to make sure your site is accessible (to visually impaired people)
-- How to make sure you've got good contrast and a good color pallete
-- How to get the value of an input field using jQuery
-- How to modify HTML using jQuery
-- How to call an API using jQuery's $.ajax
-- What routing is, and why/when you should use it
+If you feel shaky in any of these areas, come see me:
+
+- CSS/SCSS
+- Responsive design
+- Building a site to fit a brand/persona
+- jQuery
+- AJAX
+- Routing
 
 ### Do this awesome thing:
 
