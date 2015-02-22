@@ -37,9 +37,9 @@ For this assignment, you will be pairing! And here are the requirements:
 Here are the pairs:
 
 - Tim Hooker, Todd Wells
-- Grace Kohut, Tom Rau
-- Aaron Plourde, Bernard Worthy
+- Elisha Schwabauer, Tom Rau
+- Grace Kohut, Bernard Worthy
 - Zach Bradshaw, Bobby Erickson
-- Ben Roaman, Elisha Schwabauer
+- Ben Roaman, Aaron Plourde
 - Ashley Hightman, Jordan Hammond
 - Lydia Joslin, Paget Fink
