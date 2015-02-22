@@ -33,6 +33,10 @@ For this assignment, you will be pairing! And here are the requirements:
 - You must spend at least 1 hour *really* pairing
 - One of you drives for 30 mins while the other navigates
 - Switch driver and navigator for 30 more minutes
+- Each of you has to do AJAX
+- Each of you has to do SCSS
+- Each of you has to write a controller
+- Each of you has to write a factory/service
 
 Here are the pairs:
 
