@@ -2,20 +2,20 @@
 
 ## Angular 101
 
-x Views (intro)
-x Controllers (intro)
-x data-binding
-x ng-controller
-x ng-cloak
-x ng-app
-x ng-repeat
-x filter: https://docs.angularjs.org/api/ng/filter/filter
+- Views (intro)
+- Controllers (intro)
+- data-binding
+- ng-controller
+- ng-cloak
+- ng-app
+- ng-repeat
+- filter: https://docs.angularjs.org/api/ng/filter/filter
 - ng-if
 - ng-show
 - ng-hide
-x ng-click
-x ng-submit
-x ng-model
+- ng-click
+- ng-submit
+- ng-model
 
 See week 7 intro 1 and 2:
 
