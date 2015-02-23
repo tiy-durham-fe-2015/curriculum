@@ -2,20 +2,20 @@
 
 ## Angular 101
 
-- Views (intro)
-- Controllers (intro)
-- data-binding
-- ng-controller
-- ng-cloak
-- ng-app
-- ng-repeat
-- filter: https://docs.angularjs.org/api/ng/filter/filter
+x Views (intro)
+x Controllers (intro)
+x data-binding
+x ng-controller
+x ng-cloak
+x ng-app
+x ng-repeat
+x filter: https://docs.angularjs.org/api/ng/filter/filter
 - ng-if
 - ng-show
 - ng-hide
-- ng-click
-- ng-submit
-- ng-model
+x ng-click
+x ng-submit
+x ng-model
 
 See week 7 intro 1 and 2:
 
@@ -133,6 +133,8 @@ You should be able to
   - Display the min/max price for each bike
     - min price is the bike's base price before any accessories are added
     - max price is the bike's price if all accessories are chosen
+
+- *The site should be responsive (look good on tablet, pc, and mobile)*
 
 ### Hard mode
 
