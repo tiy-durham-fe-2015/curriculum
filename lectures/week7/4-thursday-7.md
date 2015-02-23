@@ -18,13 +18,9 @@ Angular application style guides:
 
 ## Homework
 
-Your homework is to write a Reddit/Hacker News style site. I've got a starter
-project for you here:
+It's this rad thing:
 
-https://github.com/tiy-durham-fe-2015/reshare
-
-Note, you may want to fork that, rather than cloning it, so I can fix bugs
-in my API and you can pull them in easily.
+https://github.com/tiy-durham-fe-2015/curriculum/tree/master/assignments/reshare
 
 ### Pairing
 

@@ -19,9 +19,17 @@ also disable users who are making rude comments or sharing inappropriate links.
 
 ## Getting started
 
-You'll want to fork this project:
+You'll want to fork this project, rather than clone it:
 
 https://github.com/tiy-durham-fe-2015/reshare
+
+The reason you want to fork it is that I may (probably will) need to fix bugs
+in the API, and you'll be wanting to pull those!
+
+As for deploying this, you can't deploy it to GitHub pages, since it needs
+to run code on the server. We'll be deploying it to Heroku next week, so don't
+worry too much about that. Just build it to work locally, and we'll go from
+there!
 
 Then, think about what a reasonable MVP might look like.
 
