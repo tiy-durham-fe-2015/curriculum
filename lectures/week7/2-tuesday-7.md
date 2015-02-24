@@ -4,9 +4,9 @@
 
 - Review 101 & coding challenge
 - Dependency injection
-- factory
-- service
-- Angular routing???
+  - factory
+  - service
+- Routing
 
 ### Dependency injection
 
