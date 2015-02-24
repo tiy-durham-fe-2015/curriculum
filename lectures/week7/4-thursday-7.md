@@ -34,12 +34,12 @@ For this assignment, you will be pairing! And here are the requirements:
 - Each of you has to write a controller
 - Each of you has to write a factory/service
 
-Here are the pairs:
+Here are the pairs (some are triplets because we have some students
+  who are out of town this weekend!):
 
 - Tim Hooker, Todd Wells
 - Elisha Schwabauer, Tom Rau
-- Grace Kohut, Bernard Worthy
-- Zach Bradshaw, Bobby Erickson
+- Zach Bradshaw, Bobby Erickson, Grace Kohut
 - Ben Roaman, Aaron Plourde
 - Ashley Hightman, Jordan Hammond
 - Lydia Joslin, Paget Fink
