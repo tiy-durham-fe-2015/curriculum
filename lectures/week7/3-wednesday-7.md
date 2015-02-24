@@ -156,15 +156,11 @@ http://javascriptplayground.com/blog/2013/12/es5-getters-setters/
 
 ### Add some AJAX to your Bike Shop
 
-You could use the Instagram API to pull photos of bikes:
-
-    https://instagram.com/developer/
-
-Or you could use the ol' familiar weather API to show the current weather:
+You could use the ol' familiar weather API to show the current weather:
 
     http://openweathermap.org/api
 
-Or whatever you want... the point is to use $http. Make it so!
+But I'll leave it up to you! The point is not to learn a new API, but rather to get familiar with how to do AJAX with Angular. You'll be really diving deep with it tomorrow (for your weekend assignment)!
 
 ### Do more stuff...
 
