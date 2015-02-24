@@ -157,6 +157,12 @@ Keep working on yesterday's assignment.
 Make your application responsive (e.g. it should look good on mobile as well
   as in the full desktop browser experience).
 
+Hint you need both of these:
+
+http://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+
+http://css-tricks.com/snippets/html/responsive-meta-tag/
+
 ### Create and use at least one factory
 
 Use dependency injection to inject objects where you need them. Here are some
