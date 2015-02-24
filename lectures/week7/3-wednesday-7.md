@@ -4,6 +4,7 @@
 
 - Review 102 & coding challenge
 - $http (and promises in Angular)
+  - resolving AJAX requests before running a route
 - $scope and watching
 
 ### AJAX with Angular
