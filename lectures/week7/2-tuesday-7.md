@@ -4,9 +4,11 @@
 
 - Review 101 & coding challenge
 - Dependency injection
-  - factory
-  - service
+  - module.constant('apiKey', '23423524534');
+  - module.factory('factoryName', function () { });
+  - Why DI? https://docs.angularjs.org/guide/di
 - Routing
+  - Angular's config vs run phase
 
 ### Dependency injection
 
@@ -126,6 +128,11 @@ about page from the gulp-angular project:
 
 The about controller itself doesn't actually do anything interesting, but it
 could (and most controllers will).
+
+If you want to use Angular + Gulp (and it will make your life easier if you
+  are using routing), then pull this down and use it as your starter:
+
+https://github.com/tiy-durham-fe-2015/gulp-angular
 
 ## Coding challenge
 
