@@ -39,7 +39,7 @@ Here are the pairs (some are triplets because we have some students
 
 - Tim Hooker, Todd Wells
 - Elisha Schwabauer, Tom Rau
-- Zach Bradshaw, Bobby Erickson, Grace Kohut
+- Zach Bradshaw, Bobby Erickson
 - Ben Roaman, Aaron Plourde
-- Ashley Hightman, Jordan Hammond
-- Lydia Joslin, Paget Fink
+- Ashley Hightman, Grace Kohut
+- Jordan Hammond, Paget Fink
