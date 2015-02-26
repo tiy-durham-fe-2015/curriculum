@@ -46,7 +46,6 @@ After completing this assignment, you should understand…
 ### Deliverables
 
 * A repo containing your Node + Angular project
-* A working MVP deployed to Heroku
 
 ### Normal Mode
 
@@ -57,7 +56,7 @@ After completing this assignment, you should understand…
 * Ability to see all posted links
 * Ability to upvote
 * Ability to downvote
-* Ability to cancel votes
+* Ability to undo my vote
 * Routing should be used, so these pages (or their equivalents) should exist:
   * Links list page
   * Link detail page
