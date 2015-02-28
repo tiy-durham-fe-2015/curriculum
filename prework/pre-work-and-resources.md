@@ -1,5 +1,7 @@
 # Pre-work and resources
 
+TODO: Formal logic reading for prework
+
 None of these are prerequisites for the IronYard's FE course, but having a cursory knowledge of these things should prove useful.
 
 ## Learn HTML and CSS
@@ -84,4 +86,3 @@ Here are some books. These aren't technical, so probably won't help you immediat
 [Any of Edward Tufte's books](http://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118/ref=sr_1_2?ie=UTF8&qid=1416519965&sr=8-2&keywords=edward+tufte)
 
 [The Design of Everyday Things](http://www.amazon.com/Design-Everyday-Things-Revised-Expanded-ebook/dp/B00E257T6C/ref=sr_1_1?ie=UTF8&qid=1416520014&sr=8-1&keywords=the+design+of+everyday+things)
-

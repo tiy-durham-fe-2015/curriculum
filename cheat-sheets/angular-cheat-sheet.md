@@ -96,4 +96,8 @@ Define (or blow away and redefine) a module:
 
 So, be careful when defining modules! Even though many say you shouldn't, I
 would either define all of my modules in one place, or simply have one big
-module for my app. Best practices be damned!
+module for my app. Whatevz!
+
+### If you need to reuse a view
+
+You can use `ng-include` in simple cases. Otherwise, you need to create a directive.
