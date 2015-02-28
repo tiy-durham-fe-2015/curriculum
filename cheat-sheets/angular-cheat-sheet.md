@@ -101,3 +101,7 @@ module for my app. Whatevz!
 ### If you need to reuse a view
 
 You can use `ng-include` in simple cases. Otherwise, you need to create a directive.
+
+### If you need to manipulate data
+
+Consider making a filter.
