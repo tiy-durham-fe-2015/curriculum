@@ -18,6 +18,13 @@ to build a collaboration tool that helps people track and collaborate on tasks
 without requiring tons of technical expertise. And we *don't* want to overwhelm
 them with lots of bells and whistles.
 
+### Focus on MVP
+
+- It's much better to ship a small, polished featureset than a big, ugly, buggy one
+- Break your project into pieces
+- Get the smallest useful thing done, then ship it
+- Rinse and repeat
+
 ### Normal Mode
 
 Users can:
