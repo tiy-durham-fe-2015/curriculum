@@ -56,45 +56,36 @@ For an Angular example, see this:
 
 https://github.com/tiy-durham-fe-2015/wk8/tree/master/src/angular-image-ajax
 
-## Websockets vs Polling
+## Image preview
 
-Google chat... How's it work?
+It's a fairly common thing for apps to need to allow users to select one or
+more images, then upload them. User experience is greatly enhanced when
+the user is shown a thumbnail or preview of the selected image.
 
-Well, here's one way you might implement it:
+This can be accomplished using the browser's FileReader object. Unfortunately,
+support for FileReader is only in IE 10 and up.
 
-https://github.com/tiy-durham-fe-2015/wk8/tree/master/src/angular-chat-poll
+If you have to support older browser, this library gives you a Flash-based
+fallback: `https://github.com/Jahdrien/FileReader`
 
-This strategy is called polling. Basically, it works like this:
+So, how does image previewing work?
 
-- Post data to a server
-- Every n seconds, ask the server for any changes since the last request
-- Update the UI if the server gives you any changes
+First, you have to have a file input type, which is HTML's way of asking a
+user to choose a file from their system:
 
-The downside to polling is:
+    <input name="my-image" type="file">
 
-- It's laggy (e.g. the user only gets refreshes every n seconds)
-- It slams the server if you have 100 users, then you are getting 100 requests
-per second, each request sending data just to ask: "Hey, anything new?"
+Then, you need to attach a 'change' event handler for this input, in which
+you will detect what file the user chose, read that file's content, and then
+stick the file's content into an image element. Let's see how that's done.
 
-That's pretty inefficient. In the case of something like a chat server, there
-is a new, more efficient way... Supported in new browsers. For old browsers,
-there are shims:
+Here's a jQuery example:
 
-https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills
+https://github.com/tiy-durham-fe-2015/wk8/blob/master/src/jquery-image-preview/image-preview.js
 
-The new, slick way is WebSockets.
+For an Angular example, check this out:
 
-A web-socket is a connection that is always on. Instead of connecting to the
-server every N seconds and asking: "Hey, anything new?" You can just keep a
-connection open, and the server will send you data whenever it pleases.
-
-This approach gives near instantaneous updates to connected browsers. But it
-does mean that if you have 500 users, you will have 500 open connections on
-your server, so this solution can be harder to scale.
-
-To see an example of WebSockets in action:
-
-https://github.com/tiy-durham-fe-2015/wk8/tree/master/src/angular-chat-socks
+https://github.com/tiy-durham-fe-2015/wk8/tree/master/src/angular-directives-103
 
 ## Assignment
 
@@ -113,9 +104,3 @@ https://github.com/tiy-durham-fe-2015/wk8
 - Can you make the upload happen as soon as the user has selected an image?
 - Could you allow multiple uploads, one after the other?
 - Could you show a processing indicator while the upload was happening?
-
-Play with the chatting application (especially the WebSocket version!)
-
-- While your browser is open, stop the server and restart it
-- See how this breaks the websocket communication
-- Can you make the websocket reconnect if the server was rebooted?
