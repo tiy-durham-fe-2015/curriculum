@@ -65,7 +65,7 @@ the user is shown a thumbnail or preview of the selected image.
 This can be accomplished using the browser's FileReader object. Unfortunately,
 support for FileReader is only in IE 10 and up.
 
-If you have to support older browser, this library gives you a Flash-based
+If you have to support older browsers, this library gives you a Flash-based
 fallback: `https://github.com/Jahdrien/FileReader`
 
 So, how does image previewing work?
