@@ -52,6 +52,9 @@ At some point, you might want to play with the chatting application (especially
 - See how this breaks the websocket communication
 - Can you make the websocket reconnect if the server was rebooted?
 
+In general, you probably won't do native WebSockets in your project (though you certainly could).  You'll probably wnat to use a wrapper library such as:
+
+http://socket.io/
 
 ## Assignment
 
