@@ -97,3 +97,7 @@ idea, or whatever, it's cool... But I want it to ultimately have:
 - Paget, Todd
 - Elisha, Grace
 - Bobby, Ashley
+
+## Some datasets you might want to use for charting:
+
+http://lib.stat.cmu.edu/datasets/
