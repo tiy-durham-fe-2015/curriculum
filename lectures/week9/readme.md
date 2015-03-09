@@ -1,7 +1,5 @@
 # Week 9
 
-- TODO: Time-series data
-
 This week, we'll be learning some new stuff:
 
 - Node
@@ -16,19 +14,13 @@ And we'll be reviewing some old stuff:
 
 Instead of breaking notes apart by day, we'll be organizing notes by concept...
 
-
-
 ## Goals
 
-- Node
-
-- Mention SPARC designer who was a waitress, redesigned existing sites
-
-- M: project wrap, Node intro
-- T: Node cont (UI), Chance
-- W: C3 charts, Node, cont
-- T: wrapup
-
+- Learn the backend (using Node, Express, and NEDB)
+- Learn how to visualize your data using C3 (built on D3)
+- Deepen understanding of design via
+  - Chance's lecture
+  - Reading Google material design
 
 # Homework
 
