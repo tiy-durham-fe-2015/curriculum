@@ -28,6 +28,19 @@ Reading (all week):
 
 http://www.google.com/design/spec/material-design/introduction.html
 
+Read up on NEDB:
+
+https://github.com/louischatriot/nedb
+
+## Tuesday
+
+- Integrate NEDB into your API
+- Ability to find all friends
+- Ability to insert a friend
+- Ability to update a friend
+- Ability to find a friend by Id
+- Ability to remove a friend
+
 ## Description
 
 Visualize stats about your friends. Don't like social networks? Don't like
