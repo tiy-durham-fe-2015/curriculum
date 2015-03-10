@@ -28,9 +28,9 @@ Reading (all week):
 
 http://www.google.com/design/spec/material-design/introduction.html
 
-Read up on NEDB:
+It may be helpful to review the SCSS guidelines!
 
-https://github.com/louischatriot/nedb
+http://sass-guidelin.es/
 
 ## Tuesday
 
@@ -40,6 +40,10 @@ https://github.com/louischatriot/nedb
 - Ability to update a friend
 - Ability to find a friend by Id
 - Ability to remove a friend
+
+Note, it will be helpful to refer to the NEDB documentation:
+
+https://github.com/louischatriot/nedb
 
 ## Description
 
